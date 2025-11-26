@@ -1,0 +1,147 @@
+{
+  "category": "Familie & Mensen",
+  "icon": "👨‍👩‍👧‍👦",
+  "words": [
+    {
+      "id": 331,
+      "spanish": "Familia",
+      "dutch": "Familie",
+      "exampleSpanish": "Mi familia está en España.",
+      "exampleDutch": "Mijn familie is in Spanje."
+    },
+    {
+      "id": 332,
+      "spanish": "Padre",
+      "dutch": "Vader",
+      "exampleSpanish": "Mi padre es profesor.",
+      "exampleDutch": "Mijn vader is leraar."
+    },
+    {
+      "id": 333,
+      "spanish": "Madre",
+      "dutch": "Moeder",
+      "exampleSpanish": "Mi madre cocina bien.",
+      "exampleDutch": "Mijn moeder kookt goed."
+    },
+    {
+      "id": 334,
+      "spanish": "Hijo",
+      "dutch": "Zoon",
+      "exampleSpanish": "Tengo un hijo.",
+      "exampleDutch": "Ik heb een zoon."
+    },
+    {
+      "id": 335,
+      "spanish": "Hija",
+      "dutch": "Dochter",
+      "exampleSpanish": "Mi hija tiene cinco años.",
+      "exampleDutch": "Mijn dochter is vijf jaar oud."
+    },
+    {
+      "id": 336,
+      "spanish": "Hermano",
+      "dutch": "Broer",
+      "exampleSpanish": "Tengo dos hermanos.",
+      "exampleDutch": "Ik heb twee broers."
+    },
+    {
+      "id": 337,
+      "spanish": "Hermana",
+      "dutch": "Zus",
+      "exampleSpanish": "Mi hermana vive en Madrid.",
+      "exampleDutch": "Mijn zus woont in Madrid."
+    },
+    {
+      "id": 338,
+      "spanish": "Esposo",
+      "dutch": "Echtgenoot",
+      "exampleSpanish": "Mi esposo está trabajando.",
+      "exampleDutch": "Mijn echtgenoot is aan het werken."
+    },
+    {
+      "id": 339,
+      "spanish": "Esposa",
+      "dutch": "Echtgenote",
+      "exampleSpanish": "Viajo con mi esposa.",
+      "exampleDutch": "Ik reis met mijn echtgenote."
+    },
+    {
+      "id": 340,
+      "spanish": "Abuelo",
+      "dutch": "Grootvader / Opa",
+      "exampleSpanish": "Mi abuelo es muy sabio.",
+      "exampleDutch": "Mijn grootvader is erg wijs."
+    },
+    {
+      "id": 341,
+      "spanish": "Abuela",
+      "dutch": "Grootmoeder / Oma",
+      "exampleSpanish": "Mi abuela cocina delicioso.",
+      "exampleDutch": "Mijn grootmoeder kookt heerlijk."
+    },
+    {
+      "id": 342,
+      "spanish": "Nieto",
+      "dutch": "Kleinzoon",
+      "exampleSpanish": "Tengo tres nietos.",
+      "exampleDutch": "Ik heb drie kleinzoons."
+    },
+    {
+      "id": 343,
+      "spanish": "Nieta",
+      "dutch": "Kleindochter",
+      "exampleSpanish": "Mi nieta es adorable.",
+      "exampleDutch": "Mijn kleindochter is schattig."
+    },
+    {
+      "id": 344,
+      "spanish": "Tío",
+      "dutch": "Oom",
+      "exampleSpanish": "Mi tío vive aquí.",
+      "exampleDutch": "Mijn oom woont hier."
+    },
+    {
+      "id": 345,
+      "spanish": "Tía",
+      "dutch": "Tante",
+      "exampleSpanish": "Visito a mi tía.",
+      "exampleDutch": "Ik bezoek mijn tante."
+    },
+    {
+      "id": 346,
+      "spanish": "Primo",
+      "dutch": "Neef",
+      "exampleSpanish": "Mi primo es divertido.",
+      "exampleDutch": "Mijn neef is grappig."
+    },
+    {
+      "id": 347,
+      "spanish": "Prima",
+      "dutch": "Nicht",
+      "exampleSpanish": "Mi prima vive en Barcelona.",
+      "exampleDutch": "Mijn nicht woont in Barcelona."
+    },
+    {
+      "id": 348,
+      "spanish": "Amigo",
+      "dutch": "Vriend",
+      "exampleSpanish": "Es mi mejor amigo.",
+      "exampleDutch": "Hij is mijn beste vriend."
+    },
+    {
+      "id": 349,
+      "spanish": "Amiga",
+      "dutch": "Vriendin",
+      "exampleSpanish": "Viajo con una amiga.",
+      "exampleDutch": "Ik reis met een vriendin."
+    },
+    {
+      "id": 350,
+      "spanish": "Persona",
+      "dutch": "Persoon",
+      "exampleSpanish": "Hay muchas personas aquí.",
+      "exampleDutch": "Er zijn veel mensen hier."
+    }
+  ]
+}
+

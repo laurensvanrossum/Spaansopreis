@@ -1,0 +1,91 @@
+{
+  "category": "Richtingen",
+  "icon": "🗺️",
+  "words": [
+    {
+      "id": 56,
+      "spanish": "¿Dónde está...?",
+      "dutch": "Waar is...?",
+      "exampleSpanish": "¿Dónde está el museo?",
+      "exampleDutch": "Waar is het museum?"
+    },
+    {
+      "id": 57,
+      "spanish": "Aquí",
+      "dutch": "Hier",
+      "exampleSpanish": "Estoy aquí.",
+      "exampleDutch": "Ik ben hier."
+    },
+    {
+      "id": 58,
+      "spanish": "Allí",
+      "dutch": "Daar",
+      "exampleSpanish": "El banco está allí.",
+      "exampleDutch": "De bank is daar."
+    },
+    {
+      "id": 59,
+      "spanish": "Derecha",
+      "dutch": "Rechts",
+      "exampleSpanish": "Gire a la derecha.",
+      "exampleDutch": "Sla rechtsaf."
+    },
+    {
+      "id": 60,
+      "spanish": "Izquierda",
+      "dutch": "Links",
+      "exampleSpanish": "La tienda está a la izquierda.",
+      "exampleDutch": "De winkel is aan de linkerkant."
+    },
+    {
+      "id": 61,
+      "spanish": "Recto",
+      "dutch": "Rechtdoor",
+      "exampleSpanish": "Siga todo recto.",
+      "exampleDutch": "Ga rechtdoor."
+    },
+    {
+      "id": 62,
+      "spanish": "Cerca",
+      "dutch": "Dichtbij",
+      "exampleSpanish": "¿Está cerca de aquí?",
+      "exampleDutch": "Is het hier dichtbij?"
+    },
+    {
+      "id": 63,
+      "spanish": "Lejos",
+      "dutch": "Ver",
+      "exampleSpanish": "Está muy lejos.",
+      "exampleDutch": "Het is erg ver."
+    },
+    {
+      "id": 64,
+      "spanish": "Calle",
+      "dutch": "Straat",
+      "exampleSpanish": "¿Cómo se llama esta calle?",
+      "exampleDutch": "Hoe heet deze straat?"
+    },
+    {
+      "id": 65,
+      "spanish": "Plaza",
+      "dutch": "Plein",
+      "exampleSpanish": "Nos vemos en la plaza mayor.",
+      "exampleDutch": "We zien elkaar op het grote plein."
+    },
+    {
+      "id": 66,
+      "spanish": "Mapa",
+      "dutch": "Kaart",
+      "exampleSpanish": "¿Tiene un mapa de la ciudad?",
+      "exampleDutch": "Heeft u een stadsplattegrond?"
+    },
+    {
+      "id": 67,
+      "spanish": "Centro",
+      "dutch": "Centrum",
+      "exampleSpanish": "Voy al centro de la ciudad.",
+      "exampleDutch": "Ik ga naar het stadscentrum."
+    }
+  ]
+}
+

@@ -1,0 +1,252 @@
+{
+  "category": "Accommodatie",
+  "icon": "🛏️",
+  "words": [
+    {
+      "id": 166,
+      "spanish": "Cama",
+      "dutch": "Bed",
+      "exampleSpanish": "La cama es cómoda.",
+      "exampleDutch": "Het bed is comfortabel."
+    },
+    {
+      "id": 167,
+      "spanish": "Almohada",
+      "dutch": "Kussen",
+      "exampleSpanish": "Necesito otra almohada.",
+      "exampleDutch": "Ik heb nog een kussen nodig."
+    },
+    {
+      "id": 168,
+      "spanish": "Manta",
+      "dutch": "Deken",
+      "exampleSpanish": "¿Hay otra manta?",
+      "exampleDutch": "Is er nog een deken?"
+    },
+    {
+      "id": 169,
+      "spanish": "Sábana",
+      "dutch": "Laken",
+      "exampleSpanish": "Las sábanas están limpias.",
+      "exampleDutch": "De lakens zijn schoon."
+    },
+    {
+      "id": 170,
+      "spanish": "Baño",
+      "dutch": "Badkamer",
+      "exampleSpanish": "El baño es privado.",
+      "exampleDutch": "De badkamer is privé."
+    },
+    {
+      "id": 171,
+      "spanish": "Ducha",
+      "dutch": "Douche",
+      "exampleSpanish": "La ducha no funciona.",
+      "exampleDutch": "De douche werkt niet."
+    },
+    {
+      "id": 172,
+      "spanish": "Bañera",
+      "dutch": "Badkuip",
+      "exampleSpanish": "¿Hay bañera en el baño?",
+      "exampleDutch": "Is er een badkuip in de badkamer?"
+    },
+    {
+      "id": 173,
+      "spanish": "Jabón",
+      "dutch": "Zeep",
+      "exampleSpanish": "Necesito jabón.",
+      "exampleDutch": "Ik heb zeep nodig."
+    },
+    {
+      "id": 174,
+      "spanish": "Champú",
+      "dutch": "Shampoo",
+      "exampleSpanish": "¿Tienen champú?",
+      "exampleDutch": "Hebben jullie shampoo?"
+    },
+    {
+      "id": 175,
+      "spanish": "Papel higiénico",
+      "dutch": "Toiletpapier",
+      "exampleSpanish": "No hay papel higiénico.",
+      "exampleDutch": "Er is geen toiletpapier."
+    },
+    {
+      "id": 176,
+      "spanish": "Armario",
+      "dutch": "Kast",
+      "exampleSpanish": "El armario es grande.",
+      "exampleDutch": "De kast is groot."
+    },
+    {
+      "id": 177,
+      "spanish": "Percha",
+      "dutch": "Kleerhanger",
+      "exampleSpanish": "¿Dónde están las perchas?",
+      "exampleDutch": "Waar zijn de keerhangers?"
+    },
+    {
+      "id": 178,
+      "spanish": "Mesita de noche",
+      "dutch": "Nachtkastje",
+      "exampleSpanish": "Hay una lámpara en la mesita de noche.",
+      "exampleDutch": "Er is een lamp op het nachtkastje."
+    },
+    {
+      "id": 179,
+      "spanish": "Lámpara",
+      "dutch": "Lamp",
+      "exampleSpanish": "La lámpara no enciende.",
+      "exampleDutch": "De lamp gaat niet aan."
+    },
+    {
+      "id": 180,
+      "spanish": "Luz",
+      "dutch": "Licht",
+      "exampleSpanish": "¿Dónde está el interruptor de la luz?",
+      "exampleDutch": "Waar is de lichtschakelaar?"
+    },
+    {
+      "id": 181,
+      "spanish": "Ventana",
+      "dutch": "Raam",
+      "exampleSpanish": "¿Puedo abrir la ventana?",
+      "exampleDutch": "Mag ik het raam openen?"
+    },
+    {
+      "id": 182,
+      "spanish": "Balcón",
+      "dutch": "Balkon",
+      "exampleSpanish": "La habitación tiene balcón.",
+      "exampleDutch": "De kamer heeft een balkon."
+    },
+    {
+      "id": 183,
+      "spanish": "Vista",
+      "dutch": "Uitzicht",
+      "exampleSpanish": "La vista es preciosa.",
+      "exampleDutch": "Het uitzicht is prachtig."
+    },
+    {
+      "id": 184,
+      "spanish": "Televisión",
+      "dutch": "Televisie",
+      "exampleSpanish": "¿Hay televisión en la habitación?",
+      "exampleDutch": "Is er televisie op de kamer?"
+    },
+    {
+      "id": 185,
+      "spanish": "WiFi",
+      "dutch": "WiFi",
+      "exampleSpanish": "¿Cuál es la contraseña del WiFi?",
+      "exampleDutch": "Wat is het WiFi-wachtwoord?"
+    },
+    {
+      "id": 186,
+      "spanish": "Internet",
+      "dutch": "Internet",
+      "exampleSpanish": "El internet es rápido.",
+      "exampleDutch": "Het internet is snel."
+    },
+    {
+      "id": 187,
+      "spanish": "Enchufe",
+      "dutch": "Stopcontact",
+      "exampleSpanish": "¿Dónde hay un enchufe?",
+      "exampleDutch": "Waar is een stopcontact?"
+    },
+    {
+      "id": 188,
+      "spanish": "Cargador",
+      "dutch": "Oplader",
+      "exampleSpanish": "Olvidé mi cargador.",
+      "exampleDutch": "Ik ben mijn oplader vergeten."
+    },
+    {
+      "id": 189,
+      "spanish": "Adaptador",
+      "dutch": "Adapter",
+      "exampleSpanish": "Necesito un adaptador.",
+      "exampleDutch": "Ik heb een adapter nodig."
+    },
+    {
+      "id": 190,
+      "spanish": "Teléfono",
+      "dutch": "Telefoon",
+      "exampleSpanish": "¿Puedo usar el teléfono?",
+      "exampleDutch": "Mag ik de telefoon gebruiken?"
+    },
+    {
+      "id": 191,
+      "spanish": "Caja fuerte",
+      "dutch": "Kluis",
+      "exampleSpanish": "¿Hay caja fuerte?",
+      "exampleDutch": "Is er een kluis?"
+    },
+    {
+      "id": 192,
+      "spanish": "Limpieza",
+      "dutch": "Schoonmaak",
+      "exampleSpanish": "¿A qué hora es la limpieza?",
+      "exampleDutch": "Hoe laat is de schoonmaak?"
+    },
+    {
+      "id": 193,
+      "spanish": "Servicio de habitaciones",
+      "dutch": "Roomservice",
+      "exampleSpanish": "Quiero pedir servicio de habitaciones.",
+      "exampleDutch": "Ik wil roomservice bestellen."
+    },
+    {
+      "id": 194,
+      "spanish": "Ascensor",
+      "dutch": "Lift",
+      "exampleSpanish": "¿Dónde está el ascensor?",
+      "exampleDutch": "Waar is de lift?"
+    },
+    {
+      "id": 195,
+      "spanish": "Escaleras",
+      "dutch": "Trap",
+      "exampleSpanish": "Subo por las escaleras.",
+      "exampleDutch": "Ik ga via de trap."
+    },
+    {
+      "id": 196,
+      "spanish": "Piso",
+      "dutch": "Verdieping",
+      "exampleSpanish": "Mi habitación está en el tercer piso.",
+      "exampleDutch": "Mijn kamer is op de derde verdieping."
+    },
+    {
+      "id": 197,
+      "spanish": "Ruido",
+      "dutch": "Lawaai / Geluid",
+      "exampleSpanish": "Hay mucho ruido.",
+      "exampleDutch": "Er is veel lawaai."
+    },
+    {
+      "id": 198,
+      "spanish": "Silencio",
+      "dutch": "Stilte",
+      "exampleSpanish": "Necesito silencio para dormir.",
+      "exampleDutch": "Ik heb stilte nodig om te slapen."
+    },
+    {
+      "id": 199,
+      "spanish": "Cortina",
+      "dutch": "Gordijn",
+      "exampleSpanish": "¿Puedo cerrar las cortinas?",
+      "exampleDutch": "Mag ik de gordijnen sluiten?"
+    },
+    {
+      "id": 200,
+      "spanish": "Espejo",
+      "dutch": "Spiegel",
+      "exampleSpanish": "Hay un espejo grande.",
+      "exampleDutch": "Er is een grote spiegel."
+    }
+  ]
+}
+

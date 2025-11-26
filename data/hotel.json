@@ -1,0 +1,77 @@
+{
+  "category": "Hotel",
+  "icon": "🏨",
+  "words": [
+    {
+      "id": 21,
+      "spanish": "Hotel",
+      "dutch": "Hotel",
+      "exampleSpanish": "Busco un hotel cerca de la playa.",
+      "exampleDutch": "Ik zoek een hotel bij het strand."
+    },
+    {
+      "id": 22,
+      "spanish": "Habitación",
+      "dutch": "Kamer",
+      "exampleSpanish": "Quiero reservar una habitación doble.",
+      "exampleDutch": "Ik wil een tweepersoonskamer reserveren."
+    },
+    {
+      "id": 23,
+      "spanish": "Reserva",
+      "dutch": "Reservering",
+      "exampleSpanish": "Tengo una reserva a nombre de García.",
+      "exampleDutch": "Ik heb een reservering op naam van García."
+    },
+    {
+      "id": 24,
+      "spanish": "Llave",
+      "dutch": "Sleutel",
+      "exampleSpanish": "¿Me puede dar la llave de mi habitación?",
+      "exampleDutch": "Kunt u mij de sleutel van mijn kamer geven?"
+    },
+    {
+      "id": 25,
+      "spanish": "Recepción",
+      "dutch": "Receptie",
+      "exampleSpanish": "La recepción está abierta 24 horas.",
+      "exampleDutch": "De receptie is 24 uur open."
+    },
+    {
+      "id": 26,
+      "spanish": "Desayuno",
+      "dutch": "Ontbijt",
+      "exampleSpanish": "¿A qué hora es el desayuno?",
+      "exampleDutch": "Hoe laat is het ontbijt?"
+    },
+    {
+      "id": 27,
+      "spanish": "Toalla",
+      "dutch": "Handdoek",
+      "exampleSpanish": "Necesito toallas limpias.",
+      "exampleDutch": "Ik heb schone handdoeken nodig."
+    },
+    {
+      "id": 28,
+      "spanish": "Piscina",
+      "dutch": "Zwembad",
+      "exampleSpanish": "¿Dónde está la piscina?",
+      "exampleDutch": "Waar is het zwembad?"
+    },
+    {
+      "id": 29,
+      "spanish": "Aire acondicionado",
+      "dutch": "Airconditioning",
+      "exampleSpanish": "El aire acondicionado no funciona.",
+      "exampleDutch": "De airconditioning werkt niet."
+    },
+    {
+      "id": 30,
+      "spanish": "Cuenta",
+      "dutch": "Rekening",
+      "exampleSpanish": "¿Me puede traer la cuenta?",
+      "exampleDutch": "Kunt u mij de rekening brengen?"
+    }
+  ]
+}
+

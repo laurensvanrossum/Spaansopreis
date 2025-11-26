@@ -1,0 +1,77 @@
+{
+  "category": "Winkelen",
+  "icon": "🛍️",
+  "words": [
+    {
+      "id": 79,
+      "spanish": "Tienda",
+      "dutch": "Winkel",
+      "exampleSpanish": "¿Dónde está la tienda de regalos?",
+      "exampleDutch": "Waar is de cadeauwinkel?"
+    },
+    {
+      "id": 80,
+      "spanish": "Precio",
+      "dutch": "Prijs",
+      "exampleSpanish": "¿Cuál es el precio?",
+      "exampleDutch": "Wat is de prijs?"
+    },
+    {
+      "id": 81,
+      "spanish": "Dinero",
+      "dutch": "Geld",
+      "exampleSpanish": "¿Aceptan dinero en efectivo?",
+      "exampleDutch": "Accepteren jullie contant geld?"
+    },
+    {
+      "id": 82,
+      "spanish": "Tarjeta",
+      "dutch": "Kaart / Bankpas",
+      "exampleSpanish": "¿Puedo pagar con tarjeta?",
+      "exampleDutch": "Kan ik met de kaart betalen?"
+    },
+    {
+      "id": 83,
+      "spanish": "Barato",
+      "dutch": "Goedkoop",
+      "exampleSpanish": "¿Tiene algo más barato?",
+      "exampleDutch": "Heeft u iets goedkopers?"
+    },
+    {
+      "id": 84,
+      "spanish": "Caro",
+      "dutch": "Duur",
+      "exampleSpanish": "Es muy caro.",
+      "exampleDutch": "Het is erg duur."
+    },
+    {
+      "id": 85,
+      "spanish": "Descuento",
+      "dutch": "Korting",
+      "exampleSpanish": "¿Hay algún descuento?",
+      "exampleDutch": "Is er korting?"
+    },
+    {
+      "id": 86,
+      "spanish": "Comprar",
+      "dutch": "Kopen",
+      "exampleSpanish": "Quiero comprar un recuerdo.",
+      "exampleDutch": "Ik wil een souvenir kopen."
+    },
+    {
+      "id": 87,
+      "spanish": "Talla",
+      "dutch": "Maat",
+      "exampleSpanish": "¿Tiene esto en talla mediana?",
+      "exampleDutch": "Heeft u dit in maat medium?"
+    },
+    {
+      "id": 88,
+      "spanish": "Bolsa",
+      "dutch": "Tas",
+      "exampleSpanish": "¿Me da una bolsa, por favor?",
+      "exampleDutch": "Kunt u mij een tas geven, alstublieft?"
+    }
+  ]
+}
+

@@ -1,0 +1,147 @@
+{
+  "category": "Geld & Bankzaken",
+  "icon": "💰",
+  "words": [
+    {
+      "id": 211,
+      "spanish": "Dinero",
+      "dutch": "Geld",
+      "exampleSpanish": "¿Aceptan dinero en efectivo?",
+      "exampleDutch": "Accepteren jullie contant geld?"
+    },
+    {
+      "id": 212,
+      "spanish": "Euro",
+      "dutch": "Euro",
+      "exampleSpanish": "Son veinte euros.",
+      "exampleDutch": "Het is twintig euro."
+    },
+    {
+      "id": 213,
+      "spanish": "Banco",
+      "dutch": "Bank",
+      "exampleSpanish": "¿Dónde hay un banco?",
+      "exampleDutch": "Waar is een bank?"
+    },
+    {
+      "id": 214,
+      "spanish": "Cajero automático",
+      "dutch": "Geldautomaat",
+      "exampleSpanish": "Busco un cajero automático.",
+      "exampleDutch": "Ik zoek een geldautomaat."
+    },
+    {
+      "id": 215,
+      "spanish": "Tarjeta de crédito",
+      "dutch": "Creditcard",
+      "exampleSpanish": "¿Puedo pagar con tarjeta de crédito?",
+      "exampleDutch": "Kan ik met een creditcard betalen?"
+    },
+    {
+      "id": 216,
+      "spanish": "Efectivo",
+      "dutch": "Contant geld",
+      "exampleSpanish": "Prefiero pagar en efectivo.",
+      "exampleDutch": "Ik betaal liever contant."
+    },
+    {
+      "id": 217,
+      "spanish": "Cambio",
+      "dutch": "Wisselgeld / Wisselen",
+      "exampleSpanish": "¿Dónde puedo cambiar dinero?",
+      "exampleDutch": "Waar kan ik geld wisselen?"
+    },
+    {
+      "id": 218,
+      "spanish": "Moneda",
+      "dutch": "Munt / Valuta",
+      "exampleSpanish": "¿Qué moneda usan aquí?",
+      "exampleDutch": "Welke valuta gebruiken ze hier?"
+    },
+    {
+      "id": 219,
+      "spanish": "Billete",
+      "dutch": "Bankbiljet",
+      "exampleSpanish": "Tengo un billete de cincuenta.",
+      "exampleDutch": "Ik heb een biljet van vijftig."
+    },
+    {
+      "id": 220,
+      "spanish": "Monedas",
+      "dutch": "Munten",
+      "exampleSpanish": "Necesito monedas para el parquímetro.",
+      "exampleDutch": "Ik heb munten nodig voor de parkeer meter."
+    },
+    {
+      "id": 221,
+      "spanish": "Costo",
+      "dutch": "Kosten / Prijs",
+      "exampleSpanish": "¿Cuánto cuesta?",
+      "exampleDutch": "Hoeveel kost het?"
+    },
+    {
+      "id": 222,
+      "spanish": "Pagar",
+      "dutch": "Betalen",
+      "exampleSpanish": "Voy a pagar con tarjeta.",
+      "exampleDutch": "Ik ga met de kaart betalen."
+    },
+    {
+      "id": 223,
+      "spanish": "Cobrar",
+      "dutch": "Innen / Rekening vragen",
+      "exampleSpanish": "¿Me puede cobrar?",
+      "exampleDutch": "Kunt u afrekenen?"
+    },
+    {
+      "id": 224,
+      "spanish": "Recibo",
+      "dutch": "Bon / Kwitantie",
+      "exampleSpanish": "¿Me da un recibo?",
+      "exampleDutch": "Mag ik een bon?"
+    },
+    {
+      "id": 225,
+      "spanish": "Factura",
+      "dutch": "Factuur / Rekening",
+      "exampleSpanish": "Necesito una factura.",
+      "exampleDutch": "Ik heb een factuur nodig."
+    },
+    {
+      "id": 226,
+      "spanish": "Comisión",
+      "dutch": "Commissie / Vergoeding",
+      "exampleSpanish": "¿Hay comisión?",
+      "exampleDutch": "Is er commissie?"
+    },
+    {
+      "id": 227,
+      "spanish": "Propina",
+      "dutch": "Fooi",
+      "exampleSpanish": "La propina está incluida.",
+      "exampleDutch": "De fooi is inbegrepen."
+    },
+    {
+      "id": 228,
+      "spanish": "Dólar",
+      "dutch": "Dollar",
+      "exampleSpanish": "¿Aceptan dólares?",
+      "exampleDutch": "Accepteren jullie dollars?"
+    },
+    {
+      "id": 229,
+      "spanish": "Tipo de cambio",
+      "dutch": "Wisselkoers",
+      "exampleSpanish": "¿Cuál es el tipo de cambio?",
+      "exampleDutch": "Wat is de wisselkoers?"
+    },
+    {
+      "id": 230,
+      "spanish": "Débito",
+      "dutch": "Pinpas / Debet",
+      "exampleSpanish": "¿Puedo pagar con débito?",
+      "exampleDutch": "Kan ik pinnen?"
+    }
+  ]
+}
+

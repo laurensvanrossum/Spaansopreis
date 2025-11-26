@@ -1,0 +1,77 @@
+{
+  "category": "Vervoer",
+  "icon": "🚌",
+  "words": [
+    {
+      "id": 31,
+      "spanish": "Autobús",
+      "dutch": "Bus",
+      "exampleSpanish": "¿Dónde está la parada de autobús?",
+      "exampleDutch": "Waar is de bushalte?"
+    },
+    {
+      "id": 32,
+      "spanish": "Tren",
+      "dutch": "Trein",
+      "exampleSpanish": "El tren sale a las cinco.",
+      "exampleDutch": "De trein vertrekt om vijf uur."
+    },
+    {
+      "id": 33,
+      "spanish": "Metro",
+      "dutch": "Metro",
+      "exampleSpanish": "Voy en metro al centro.",
+      "exampleDutch": "Ik ga met de metro naar het centrum."
+    },
+    {
+      "id": 34,
+      "spanish": "Taxi",
+      "dutch": "Taxi",
+      "exampleSpanish": "Necesito un taxi al hotel.",
+      "exampleDutch": "Ik heb een taxi naar het hotel nodig."
+    },
+    {
+      "id": 35,
+      "spanish": "Billete",
+      "dutch": "Ticket / Kaartje",
+      "exampleSpanish": "Quiero comprar un billete de ida y vuelta.",
+      "exampleDutch": "Ik wil een retourticket kopen."
+    },
+    {
+      "id": 36,
+      "spanish": "Estación",
+      "dutch": "Station",
+      "exampleSpanish": "¿Cómo llego a la estación de tren?",
+      "exampleDutch": "Hoe kom ik bij het treinstation?"
+    },
+    {
+      "id": 37,
+      "spanish": "Parada",
+      "dutch": "Halte",
+      "exampleSpanish": "Esta es mi parada.",
+      "exampleDutch": "Dit is mijn halte."
+    },
+    {
+      "id": 38,
+      "spanish": "Coche",
+      "dutch": "Auto",
+      "exampleSpanish": "Quiero alquilar un coche.",
+      "exampleDutch": "Ik wil een auto huren."
+    },
+    {
+      "id": 39,
+      "spanish": "Bicicleta",
+      "dutch": "Fiets",
+      "exampleSpanish": "¿Dónde puedo alquilar una bicicleta?",
+      "exampleDutch": "Waar kan ik een fiets huren?"
+    },
+    {
+      "id": 40,
+      "spanish": "Conductor",
+      "dutch": "Chauffeur",
+      "exampleSpanish": "El conductor es muy amable.",
+      "exampleDutch": "De chauffeur is erg vriendelijk."
+    }
+  ]
+}
+

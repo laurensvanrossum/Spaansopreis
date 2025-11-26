@@ -1,0 +1,147 @@
+{
+  "category": "Kleuren & Beschrijvingen",
+  "icon": "🎨",
+  "words": [
+    {
+      "id": 311,
+      "spanish": "Color",
+      "dutch": "Kleur",
+      "exampleSpanish": "¿Qué color prefieres?",
+      "exampleDutch": "Welke kleur heb je liever?"
+    },
+    {
+      "id": 312,
+      "spanish": "Rojo",
+      "dutch": "Rood",
+      "exampleSpanish": "Me gusta el rojo.",
+      "exampleDutch": "Ik hou van rood."
+    },
+    {
+      "id": 313,
+      "spanish": "Azul",
+      "dutch": "Blauw",
+      "exampleSpanish": "El cielo es azul.",
+      "exampleDutch": "De lucht is blauw."
+    },
+    {
+      "id": 314,
+      "spanish": "Verde",
+      "dutch": "Groen",
+      "exampleSpanish": "Las plantas son verdes.",
+      "exampleDutch": "De planten zijn groen."
+    },
+    {
+      "id": 315,
+      "spanish": "Amarillo",
+      "dutch": "Geel",
+      "exampleSpanish": "El sol es amarillo.",
+      "exampleDutch": "De zon is geel."
+    },
+    {
+      "id": 316,
+      "spanish": "Naranja",
+      "dutch": "Oranje",
+      "exampleSpanish": "La naranja es naranja.",
+      "exampleDutch": "De sinaasappel is oranje."
+    },
+    {
+      "id": 317,
+      "spanish": "Rosa",
+      "dutch": "Roze",
+      "exampleSpanish": "Esta flor es rosa.",
+      "exampleDutch": "Deze bloem is roze."
+    },
+    {
+      "id": 318,
+      "spanish": "Morado",
+      "dutch": "Paars",
+      "exampleSpanish": "¿Tiene esto en morado?",
+      "exampleDutch": "Heeft u dit in paars?"
+    },
+    {
+      "id": 319,
+      "spanish": "Negro",
+      "dutch": "Zwart",
+      "exampleSpanish": "Llevo pantalones negros.",
+      "exampleDutch": "Ik draag een zwarte broek."
+    },
+    {
+      "id": 320,
+      "spanish": "Blanco",
+      "dutch": "Wit",
+      "exampleSpanish": "Quiero una camisa blanca.",
+      "exampleDutch": "Ik wil een wit overhemd."
+    },
+    {
+      "id": 321,
+      "spanish": "Gris",
+      "dutch": "Grijs",
+      "exampleSpanish": "El gato es gris.",
+      "exampleDutch": "De kat is grijs."
+    },
+    {
+      "id": 322,
+      "spanish": "Marrón",
+      "dutch": "Bruin",
+      "exampleSpanish": "Tengo ojos marrones.",
+      "exampleDutch": "Ik heb bruine ogen."
+    },
+    {
+      "id": 323,
+      "spanish": "Grande",
+      "dutch": "Groot",
+      "exampleSpanish": "La habitación es grande.",
+      "exampleDutch": "De kamer is groot."
+    },
+    {
+      "id": 324,
+      "spanish": "Pequeño",
+      "dutch": "Klein",
+      "exampleSpanish": "Este es muy pequeño.",
+      "exampleDutch": "Deze is erg klein."
+    },
+    {
+      "id": 325,
+      "spanish": "Nuevo",
+      "dutch": "Nieuw",
+      "exampleSpanish": "Es nuevo.",
+      "exampleDutch": "Het is nieuw."
+    },
+    {
+      "id": 326,
+      "spanish": "Viejo",
+      "dutch": "Oud",
+      "exampleSpanish": "Este edificio es muy viejo.",
+      "exampleDutch": "Dit gebouw is erg oud."
+    },
+    {
+      "id": 327,
+      "spanish": "Bonito",
+      "dutch": "Mooi",
+      "exampleSpanish": "Qué bonito!",
+      "exampleDutch": "Wat mooi!"
+    },
+    {
+      "id": 328,
+      "spanish": "Feo",
+      "dutch": "Lelijk",
+      "exampleSpanish": "Es feo.",
+      "exampleDutch": "Het is lelijk."
+    },
+    {
+      "id": 329,
+      "spanish": "Limpio",
+      "dutch": "Schoon",
+      "exampleSpanish": "La habitación está limpia.",
+      "exampleDutch": "De kamer is schoon."
+    },
+    {
+      "id": 330,
+      "spanish": "Sucio",
+      "dutch": "Vies / Vuil",
+      "exampleSpanish": "Esto está sucio.",
+      "exampleDutch": "Dit is vuil."
+    }
+  ]
+}
+

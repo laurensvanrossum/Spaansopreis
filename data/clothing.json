@@ -1,0 +1,147 @@
+{
+  "category": "Kleding",
+  "icon": "👕",
+  "words": [
+    {
+      "id": 291,
+      "spanish": "Ropa",
+      "dutch": "Kleding",
+      "exampleSpanish": "¿Dónde puedo comprar ropa?",
+      "exampleDutch": "Waar kan ik kleding kopen?"
+    },
+    {
+      "id": 292,
+      "spanish": "Camisa",
+      "dutch": "Overhemd / Shirt",
+      "exampleSpanish": "Me gusta esta camisa.",
+      "exampleDutch": "Ik vind dit shirt mooi."
+    },
+    {
+      "id": 293,
+      "spanish": "Camiseta",
+      "dutch": "T-shirt",
+      "exampleSpanish": "Quiero comprar una camiseta.",
+      "exampleDutch": "Ik wil een T-shirt kopen."
+    },
+    {
+      "id": 294,
+      "spanish": "Pantalones",
+      "dutch": "Broek",
+      "exampleSpanish": "Estos pantalones son cómodos.",
+      "exampleDutch": "Deze broek is comfortabel."
+    },
+    {
+      "id": 295,
+      "spanish": "Falda",
+      "dutch": "Rok",
+      "exampleSpanish": "¿Tiene esta falda en negro?",
+      "exampleDutch": "Heeft u deze rok in zwart?"
+    },
+    {
+      "id": 296,
+      "spanish": "Vestido",
+      "dutch": "Jurk",
+      "exampleSpanish": "Este vestido es bonito.",
+      "exampleDutch": "Deze jurk is mooi."
+    },
+    {
+      "id": 297,
+      "spanish": "Zapatos",
+      "dutch": "Schoenen",
+      "exampleSpanish": "Necesito zapatos nuevos.",
+      "exampleDutch": "Ik heb nieuwe schoenen nodig."
+    },
+    {
+      "id": 298,
+      "spanish": "Sandalias",
+      "dutch": "Sandalen",
+      "exampleSpanish": "Llevo sandalias en verano.",
+      "exampleDutch": "Ik draag sandalen in de zomer."
+    },
+    {
+      "id": 299,
+      "spanish": "Botas",
+      "dutch": "Laarzen",
+      "exampleSpanish": "Necesito botas para la lluvia.",
+      "exampleDutch": "Ik heb laarzen nodig voor de regen."
+    },
+    {
+      "id": 300,
+      "spanish": "Chaqueta",
+      "dutch": "Jas",
+      "exampleSpanish": "Hace frío, necesito una chaqueta.",
+      "exampleDutch": "Het is koud, ik heb een jas nodig."
+    },
+    {
+      "id": 301,
+      "spanish": "Abrigo",
+      "dutch": "Jas / Mantel",
+      "exampleSpanish": "¿Dónde está mi abrigo?",
+      "exampleDutch": "Waar is mijn jas?"
+    },
+    {
+      "id": 302,
+      "spanish": "Suéter",
+      "dutch": "Trui",
+      "exampleSpanish": "Me pongo un suéter.",
+      "exampleDutch": "Ik trek een trui aan."
+    },
+    {
+      "id": 303,
+      "spanish": "Sombrero",
+      "dutch": "Hoed",
+      "exampleSpanish": "Llevo un sombrero para el sol.",
+      "exampleDutch": "Ik draag een hoed voor de zon."
+    },
+    {
+      "id": 304,
+      "spanish": "Gorra",
+      "dutch": "Pet",
+      "exampleSpanish": "¿Tiene gorras?",
+      "exampleDutch": "Heeft u petten?"
+    },
+    {
+      "id": 305,
+      "spanish": "Calcetines",
+      "dutch": "Sokken",
+      "exampleSpanish": "Necesito calcetines nuevos.",
+      "exampleDutch": "Ik heb nieuwe sokken nodig."
+    },
+    {
+      "id": 306,
+      "spanish": "Ropa interior",
+      "dutch": "Ondergoed",
+      "exampleSpanish": "¿Dónde venden ropa interior?",
+      "exampleDutch": "Waar verkopen ze ondergoed?"
+    },
+    {
+      "id": 307,
+      "spanish": "Traje de baño",
+      "dutch": "Zwempak / Zwembroek",
+      "exampleSpanish": "Olvidé mi traje de baño.",
+      "exampleDutch": "Ik ben mijn zwembroek vergeten."
+    },
+    {
+      "id": 308,
+      "spanish": "Bufanda",
+      "dutch": "Sjaal",
+      "exampleSpanish": "Hace frío, necesito una bufanda.",
+      "exampleDutch": "Het is koud, ik heb een sjaal nodig."
+    },
+    {
+      "id": 309,
+      "spanish": "Guantes",
+      "dutch": "Handschoenen",
+      "exampleSpanish": "¿Tiene guantes?",
+      "exampleDutch": "Heeft u handschoenen?"
+    },
+    {
+      "id": 310,
+      "spanish": "Cinturón",
+      "dutch": "Riem",
+      "exampleSpanish": "Necesito un cinturón.",
+      "exampleDutch": "Ik heb een riem nodig."
+    }
+  ]
+}
+

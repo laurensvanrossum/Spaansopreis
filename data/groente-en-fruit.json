@@ -1,0 +1,224 @@
+{
+  "category": "Groente en Fruit",
+  "icon": "🍎",
+  "words": [
+    {
+      "id": 461,
+      "spanish": "Manzana",
+      "dutch": "Appel",
+      "exampleSpanish": "Me gusta la manzana verde.",
+      "exampleDutch": "Ik hou van groene appel."
+    },
+    {
+      "id": 462,
+      "spanish": "Plátano",
+      "dutch": "Banaan",
+      "exampleSpanish": "Un kilo de plátanos, por favor.",
+      "exampleDutch": "Een kilo bananen, alstublieft."
+    },
+    {
+      "id": 463,
+      "spanish": "Naranja",
+      "dutch": "Sinaasappel",
+      "exampleSpanish": "Quiero zumo de naranja.",
+      "exampleDutch": "Ik wil sinaasappelsap."
+    },
+    {
+      "id": 464,
+      "spanish": "Fresa",
+      "dutch": "Aardbei",
+      "exampleSpanish": "Las fresas son deliciosas.",
+      "exampleDutch": "Aardbeien zijn heerlijk."
+    },
+    {
+      "id": 465,
+      "spanish": "Pera",
+      "dutch": "Peer",
+      "exampleSpanish": "Una pera madura, por favor.",
+      "exampleDutch": "Een rijpe peer, alstublieft."
+    },
+    {
+      "id": 466,
+      "spanish": "Uva",
+      "dutch": "Druif",
+      "exampleSpanish": "Me encantan las uvas.",
+      "exampleDutch": "Ik ben dol op druiven."
+    },
+    {
+      "id": 467,
+      "spanish": "Sandía",
+      "dutch": "Watermeloen",
+      "exampleSpanish": "La sandía está muy fresca.",
+      "exampleDutch": "De watermeloen is erg vers."
+    },
+    {
+      "id": 468,
+      "spanish": "Melón",
+      "dutch": "Meloen",
+      "exampleSpanish": "¿Cuánto cuesta el melón?",
+      "exampleDutch": "Hoeveel kost de meloen?"
+    },
+    {
+      "id": 469,
+      "spanish": "Piña",
+      "dutch": "Ananas",
+      "exampleSpanish": "Una piña fresca, por favor.",
+      "exampleDutch": "Een verse ananas, alstublieft."
+    },
+    {
+      "id": 470,
+      "spanish": "Limón",
+      "dutch": "Citroen",
+      "exampleSpanish": "Necesito un limón para el té.",
+      "exampleDutch": "Ik heb een citroen nodig voor de thee."
+    },
+    {
+      "id": 471,
+      "spanish": "Melocotón",
+      "dutch": "Perzik",
+      "exampleSpanish": "Los melocotones están maduros.",
+      "exampleDutch": "De perziken zijn rijp."
+    },
+    {
+      "id": 472,
+      "spanish": "Cereza",
+      "dutch": "Kers",
+      "exampleSpanish": "Las cerezas son caras.",
+      "exampleDutch": "Kersen zijn duur."
+    },
+    {
+      "id": 473,
+      "spanish": "Kiwi",
+      "dutch": "Kiwi",
+      "exampleSpanish": "Me gusta el kiwi con yogur.",
+      "exampleDutch": "Ik hou van kiwi met yoghurt."
+    },
+    {
+      "id": 474,
+      "spanish": "Mango",
+      "dutch": "Mango",
+      "exampleSpanish": "El mango está muy dulce.",
+      "exampleDutch": "De mango is erg zoet."
+    },
+    {
+      "id": 476,
+      "spanish": "Frambuesa",
+      "dutch": "Framboos",
+      "exampleSpanish": "Las frambuesas son dulces.",
+      "exampleDutch": "Frambozen zijn zoet."
+    },
+    {
+      "id": 477,
+      "spanish": "Arándano",
+      "dutch": "Bosbes",
+      "exampleSpanish": "Los arándanos son saludables.",
+      "exampleDutch": "Bosbessen zijn gezond."
+    },
+    {
+      "id": 478,
+      "spanish": "Aguacate",
+      "dutch": "Avocado",
+      "exampleSpanish": "El aguacate está maduro.",
+      "exampleDutch": "De avocado is rijp."
+    },
+    {
+      "id": 479,
+      "spanish": "Coco",
+      "dutch": "Kokos",
+      "exampleSpanish": "Quiero agua de coco.",
+      "exampleDutch": "Ik wil kokoswater."
+    },
+    {
+      "id": 481,
+      "spanish": "Tomate",
+      "dutch": "Tomaat",
+      "exampleSpanish": "Necesito tomates para la ensalada.",
+      "exampleDutch": "Ik heb tomaten nodig voor de salade."
+    },
+    {
+      "id": 482,
+      "spanish": "Lechuga",
+      "dutch": "Sla",
+      "exampleSpanish": "Una lechuga fresca, por favor.",
+      "exampleDutch": "Een verse sla, alstublieft."
+    },
+    {
+      "id": 483,
+      "spanish": "Zanahoria",
+      "dutch": "Wortel",
+      "exampleSpanish": "Las zanahorias son saludables.",
+      "exampleDutch": "Wortels zijn gezond."
+    },
+    {
+      "id": 484,
+      "spanish": "Patata",
+      "dutch": "Aardappel",
+      "exampleSpanish": "Quiero patatas fritas.",
+      "exampleDutch": "Ik wil friet."
+    },
+    {
+      "id": 485,
+      "spanish": "Cebolla",
+      "dutch": "Ui",
+      "exampleSpanish": "La cebolla está en la cocina.",
+      "exampleDutch": "De ui is in de keuken."
+    },
+    {
+      "id": 486,
+      "spanish": "Pimiento",
+      "dutch": "Paprika",
+      "exampleSpanish": "Me gusta el pimiento rojo.",
+      "exampleDutch": "Ik hou van rode paprika."
+    },
+    {
+      "id": 487,
+      "spanish": "Pepino",
+      "dutch": "Komkommer",
+      "exampleSpanish": "El pepino está fresco.",
+      "exampleDutch": "De komkommer is vers."
+    },
+    {
+      "id": 489,
+      "spanish": "Berenjena",
+      "dutch": "Aubergine",
+      "exampleSpanish": "La berenjena es saludable.",
+      "exampleDutch": "Aubergine is gezond."
+    },
+    {
+      "id": 490,
+      "spanish": "Maíz",
+      "dutch": "Maïs",
+      "exampleSpanish": "El maíz está fresco.",
+      "exampleDutch": "De maïs is vers."
+    },
+    {
+      "id": 491,
+      "spanish": "Brócoli",
+      "dutch": "Broccoli",
+      "exampleSpanish": "El brócoli es muy saludable.",
+      "exampleDutch": "Broccoli is erg gezond."
+    },
+    {
+      "id": 492,
+      "spanish": "Ajo",
+      "dutch": "Knoflook",
+      "exampleSpanish": "Cocino con ajo.",
+      "exampleDutch": "Ik kook met knoflook."
+    },
+    {
+      "id": 493,
+      "spanish": "Chile",
+      "dutch": "Peper",
+      "exampleSpanish": "El chile es muy picante.",
+      "exampleDutch": "De peper is erg pittig."
+    },
+    {
+      "id": 495,
+      "spanish": "Calabaza",
+      "dutch": "Pompoen",
+      "exampleSpanish": "La calabaza es grande.",
+      "exampleDutch": "De pompoen is groot."
+    }
+  ]
+}
+

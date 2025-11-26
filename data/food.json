@@ -1,0 +1,112 @@
+{
+  "category": "Eten & Drinken",
+  "icon": "🍽️",
+  "words": [
+    {
+      "id": 41,
+      "spanish": "Restaurante",
+      "dutch": "Restaurant",
+      "exampleSpanish": "¿Me recomienda un buen restaurante?",
+      "exampleDutch": "Kunt u een goed restaurant aanbevelen?"
+    },
+    {
+      "id": 42,
+      "spanish": "Mesa",
+      "dutch": "Tafel",
+      "exampleSpanish": "Una mesa para dos, por favor.",
+      "exampleDutch": "Een tafel voor twee personen, alstublieft."
+    },
+    {
+      "id": 43,
+      "spanish": "Menú",
+      "dutch": "Menu",
+      "exampleSpanish": "¿Me trae el menú, por favor?",
+      "exampleDutch": "Kunt u het menu brengen, alstublieft?"
+    },
+    {
+      "id": 44,
+      "spanish": "Agua",
+      "dutch": "Water",
+      "exampleSpanish": "Una botella de agua, por favor.",
+      "exampleDutch": "Een fles water, alstublieft."
+    },
+    {
+      "id": 45,
+      "spanish": "Vino",
+      "dutch": "Wijn",
+      "exampleSpanish": "Una copa de vino tinto.",
+      "exampleDutch": "Een glas rode wijn."
+    },
+    {
+      "id": 46,
+      "spanish": "Cerveza",
+      "dutch": "Bier",
+      "exampleSpanish": "Dos cervezas, por favor.",
+      "exampleDutch": "Twee biertjes, alstublieft."
+    },
+    {
+      "id": 47,
+      "spanish": "Café",
+      "dutch": "Koffie",
+      "exampleSpanish": "Un café con leche, por favor.",
+      "exampleDutch": "Een koffie met melk, alstublieft."
+    },
+    {
+      "id": 48,
+      "spanish": "Pan",
+      "dutch": "Brood",
+      "exampleSpanish": "¿Tiene pan sin gluten?",
+      "exampleDutch": "Heeft u glutenvrij brood?"
+    },
+    {
+      "id": 49,
+      "spanish": "Carne",
+      "dutch": "Vlees",
+      "exampleSpanish": "No como carne.",
+      "exampleDutch": "Ik eet geen vlees."
+    },
+    {
+      "id": 50,
+      "spanish": "Pescado",
+      "dutch": "Vis",
+      "exampleSpanish": "Me gusta el pescado fresco.",
+      "exampleDutch": "Ik hou van verse vis."
+    },
+    {
+      "id": 51,
+      "spanish": "Verduras",
+      "dutch": "Groenten",
+      "exampleSpanish": "Quiero más verduras.",
+      "exampleDutch": "Ik wil meer groenten."
+    },
+    {
+      "id": 52,
+      "spanish": "Postre",
+      "dutch": "Toetje / Nagerecht",
+      "exampleSpanish": "¿Qué postres tienen?",
+      "exampleDutch": "Welke toetjes heeft u?"
+    },
+    {
+      "id": 53,
+      "spanish": "Delicioso",
+      "dutch": "Heerlijk / Lekker",
+      "exampleSpanish": "La comida está deliciosa.",
+      "exampleDutch": "Het eten is heerlijk."
+    },
+    {
+      "id": 54,
+      "spanish": "Picante",
+      "dutch": "Pikant / Scherp",
+      "exampleSpanish": "¿Es muy picante?",
+      "exampleDutch": "Is het erg pikant?"
+    },
+    {
+      "id": 55,
+      "spanish": "La cuenta",
+      "dutch": "De rekening",
+      "exampleSpanish": "La cuenta, por favor.",
+      "exampleDutch": "De rekening, alstublieft."
+    }
+  ]
+}
+

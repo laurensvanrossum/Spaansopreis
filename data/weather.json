@@ -1,0 +1,217 @@
+{
+  "category": "Weer",
+  "icon": "☀️",
+  "words": [
+    {
+      "id": 101,
+      "spanish": "Tiempo",
+      "dutch": "Weer",
+      "exampleSpanish": "¿Qué tiempo hace hoy?",
+      "exampleDutch": "Wat voor weer is het vandaag?"
+    },
+    {
+      "id": 102,
+      "spanish": "Sol",
+      "dutch": "Zon",
+      "exampleSpanish": "Hace mucho sol.",
+      "exampleDutch": "Het is erg zonnig."
+    },
+    {
+      "id": 103,
+      "spanish": "Lluvia",
+      "dutch": "Regen",
+      "exampleSpanish": "Va a llover esta tarde.",
+      "exampleDutch": "Het gaat vanmiddag regenen."
+    },
+    {
+      "id": 104,
+      "spanish": "Nube",
+      "dutch": "Wolk",
+      "exampleSpanish": "Hay muchas nubes.",
+      "exampleDutch": "Er zijn veel wolken."
+    },
+    {
+      "id": 105,
+      "spanish": "Viento",
+      "dutch": "Wind",
+      "exampleSpanish": "Hace mucho viento.",
+      "exampleDutch": "Het waait hard."
+    },
+    {
+      "id": 106,
+      "spanish": "Calor",
+      "dutch": "Warmte / Hitte",
+      "exampleSpanish": "Hace mucho calor aquí.",
+      "exampleDutch": "Het is erg warm hier."
+    },
+    {
+      "id": 107,
+      "spanish": "Frío",
+      "dutch": "Koud",
+      "exampleSpanish": "Hace frío esta mañana.",
+      "exampleDutch": "Het is koud vanmorgen."
+    },
+    {
+      "id": 108,
+      "spanish": "Temperatura",
+      "dutch": "Temperatuur",
+      "exampleSpanish": "¿Cuál es la temperatura?",
+      "exampleDutch": "Wat is de temperatuur?"
+    },
+    {
+      "id": 109,
+      "spanish": "Grados",
+      "dutch": "Graden",
+      "exampleSpanish": "Estamos a treinta grados.",
+      "exampleDutch": "Het is dertig graden."
+    },
+    {
+      "id": 110,
+      "spanish": "Tormenta",
+      "dutch": "Storm / Onweer",
+      "exampleSpanish": "Viene una tormenta.",
+      "exampleDutch": "Er komt een storm aan."
+    },
+    {
+      "id": 111,
+      "spanish": "Nieve",
+      "dutch": "Sneeuw",
+      "exampleSpanish": "Nunca nieva aquí.",
+      "exampleDutch": "Het sneeuwt hier nooit."
+    },
+    {
+      "id": 112,
+      "spanish": "Húmedo",
+      "dutch": "Vochtig",
+      "exampleSpanish": "El clima es muy húmedo.",
+      "exampleDutch": "Het klimaat is erg vochtig."
+    },
+    {
+      "id": 113,
+      "spanish": "Seco",
+      "dutch": "Droog",
+      "exampleSpanish": "El verano es muy seco.",
+      "exampleDutch": "De zomer is erg droog."
+    },
+    {
+      "id": 114,
+      "spanish": "Paraguas",
+      "dutch": "Paraplu",
+      "exampleSpanish": "Necesito un paraguas.",
+      "exampleDutch": "Ik heb een paraplu nodig."
+    },
+    {
+      "id": 115,
+      "spanish": "Gafas de sol",
+      "dutch": "Zonnebril",
+      "exampleSpanish": "¿Dónde están mis gafas de sol?",
+      "exampleDutch": "Waar is mijn zonnebril?"
+    },
+    {
+      "id": 116,
+      "spanish": "Protector solar",
+      "dutch": "Zonnebrandcrème",
+      "exampleSpanish": "Necesito comprar protector solar.",
+      "exampleDutch": "Ik moet zonnebrandcrème kopen."
+    },
+    {
+      "id": 117,
+      "spanish": "Sombra",
+      "dutch": "Schaduw",
+      "exampleSpanish": "Vamos a buscar sombra.",
+      "exampleDutch": "Laten we schaduw zoeken."
+    },
+    {
+      "id": 118,
+      "spanish": "Pronóstico",
+      "dutch": "Weersvoorspelling",
+      "exampleSpanish": "¿Cuál es el pronóstico para mañana?",
+      "exampleDutch": "Wat is de weersvoorspelling voor morgen?"
+    },
+    {
+      "id": 119,
+      "spanish": "Clima",
+      "dutch": "Klimaat",
+      "exampleSpanish": "El clima es perfecto.",
+      "exampleDutch": "Het klimaat is perfect."
+    },
+    {
+      "id": 120,
+      "spanish": "Estación",
+      "dutch": "Seizoen",
+      "exampleSpanish": "Mi estación favorita es el verano.",
+      "exampleDutch": "Mijn favoriete seizoen is de zomer."
+    },
+    {
+      "id": 121,
+      "spanish": "Primavera",
+      "dutch": "Lente",
+      "exampleSpanish": "La primavera es hermosa.",
+      "exampleDutch": "De lente is prachtig."
+    },
+    {
+      "id": 122,
+      "spanish": "Verano",
+      "dutch": "Zomer",
+      "exampleSpanish": "En verano hace mucho calor.",
+      "exampleDutch": "In de zomer is het erg warm."
+    },
+    {
+      "id": 123,
+      "spanish": "Otoño",
+      "dutch": "Herfst",
+      "exampleSpanish": "El otoño empieza en septiembre.",
+      "exampleDutch": "De herfst begint in september."
+    },
+    {
+      "id": 124,
+      "spanish": "Invierno",
+      "dutch": "Winter",
+      "exampleSpanish": "El invierno es mi estación favorita.",
+      "exampleDutch": "De winter is mijn favoriete seizoen."
+    },
+    {
+      "id": 125,
+      "spanish": "Anochecer",
+      "dutch": "Schemering / Avondschemering",
+      "exampleSpanish": "El anochecer es precioso.",
+      "exampleDutch": "De schemering is prachtig."
+    },
+    {
+      "id": 126,
+      "spanish": "Amanecer",
+      "dutch": "Zonsopgang",
+      "exampleSpanish": "Vamos a ver el amanecer.",
+      "exampleDutch": "We gaan de zonsopgang bekijken."
+    },
+    {
+      "id": 127,
+      "spanish": "Cielo",
+      "dutch": "Lucht / Hemel",
+      "exampleSpanish": "El cielo está despejado.",
+      "exampleDutch": "De lucht is helder."
+    },
+    {
+      "id": 128,
+      "spanish": "Brisa",
+      "dutch": "Bries",
+      "exampleSpanish": "Hay una brisa agradable.",
+      "exampleDutch": "Er is een aangename bries."
+    },
+    {
+      "id": 129,
+      "spanish": "Rayo",
+      "dutch": "Bliksem",
+      "exampleSpanish": "Vi un rayo.",
+      "exampleDutch": "Ik zag een bliksem."
+    },
+    {
+      "id": 130,
+      "spanish": "Trueno",
+      "dutch": "Donder",
+      "exampleSpanish": "Los truenos son muy fuertes.",
+      "exampleDutch": "De donder is erg luid."
+    }
+  ]
+}
+

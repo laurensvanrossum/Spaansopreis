@@ -1,0 +1,84 @@
+{
+  "category": "Noodgevallen",
+  "icon": "🚨",
+  "words": [
+    {
+      "id": 68,
+      "spanish": "Ayuda",
+      "dutch": "Help",
+      "exampleSpanish": "¡Ayuda, por favor!",
+      "exampleDutch": "Help, alstublieft!"
+    },
+    {
+      "id": 69,
+      "spanish": "Emergencia",
+      "dutch": "Noodgeval",
+      "exampleSpanish": "Es una emergencia.",
+      "exampleDutch": "Het is een noodgeval."
+    },
+    {
+      "id": 70,
+      "spanish": "Policía",
+      "dutch": "Politie",
+      "exampleSpanish": "Necesito llamar a la policía.",
+      "exampleDutch": "Ik moet de politie bellen."
+    },
+    {
+      "id": 71,
+      "spanish": "Hospital",
+      "dutch": "Ziekenhuis",
+      "exampleSpanish": "¿Dónde está el hospital más cercano?",
+      "exampleDutch": "Waar is het dichtstbijzijnde ziekenhuis?"
+    },
+    {
+      "id": 72,
+      "spanish": "Médico",
+      "dutch": "Arts / Dokter",
+      "exampleSpanish": "Necesito ver a un médico.",
+      "exampleDutch": "Ik moet een dokter zien."
+    },
+    {
+      "id": 73,
+      "spanish": "Farmacia",
+      "dutch": "Apotheek",
+      "exampleSpanish": "¿Dónde hay una farmacia?",
+      "exampleDutch": "Waar is een apotheek?"
+    },
+    {
+      "id": 74,
+      "spanish": "Enfermo",
+      "dutch": "Ziek",
+      "exampleSpanish": "Estoy enfermo.",
+      "exampleDutch": "Ik ben ziek."
+    },
+    {
+      "id": 75,
+      "spanish": "Dolor",
+      "dutch": "Pijn",
+      "exampleSpanish": "Tengo dolor de estómago.",
+      "exampleDutch": "Ik heb buikpijn."
+    },
+    {
+      "id": 76,
+      "spanish": "Accidente",
+      "dutch": "Ongeluk",
+      "exampleSpanish": "Ha habido un accidente.",
+      "exampleDutch": "Er is een ongeluk gebeurd."
+    },
+    {
+      "id": 77,
+      "spanish": "Ambulancia",
+      "dutch": "Ambulance",
+      "exampleSpanish": "Llame una ambulancia, por favor.",
+      "exampleDutch": "Bel een ambulance, alstublieft."
+    },
+    {
+      "id": 78,
+      "spanish": "Seguro",
+      "dutch": "Verzekering",
+      "exampleSpanish": "Tengo seguro médico.",
+      "exampleDutch": "Ik heb een ziekteverzekering."
+    }
+  ]
+}
+

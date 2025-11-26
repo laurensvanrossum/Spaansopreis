@@ -1,0 +1,147 @@
+{
+  "category": "Lichaamsdelen",
+  "icon": "🫀",
+  "words": [
+    {
+      "id": 351,
+      "spanish": "Cuerpo",
+      "dutch": "Lichaam",
+      "exampleSpanish": "Me duele el cuerpo.",
+      "exampleDutch": "Mijn lichaam doet pijn."
+    },
+    {
+      "id": 352,
+      "spanish": "Cabeza",
+      "dutch": "Hoofd",
+      "exampleSpanish": "Me duele la cabeza.",
+      "exampleDutch": "Mijn hoofd doet pijn."
+    },
+    {
+      "id": 353,
+      "spanish": "Cara",
+      "dutch": "Gezicht",
+      "exampleSpanish": "Tengo una herida en la cara.",
+      "exampleDutch": "Ik heb een wond in mijn gezicht."
+    },
+    {
+      "id": 354,
+      "spanish": "Ojos",
+      "dutch": "Ogen",
+      "exampleSpanish": "Tengo los ojos cansados.",
+      "exampleDutch": "Mijn ogen zijn moe."
+    },
+    {
+      "id": 355,
+      "spanish": "Nariz",
+      "dutch": "Neus",
+      "exampleSpanish": "Me duele la nariz.",
+      "exampleDutch": "Mijn neus doet pijn."
+    },
+    {
+      "id": 356,
+      "spanish": "Boca",
+      "dutch": "Mond",
+      "exampleSpanish": "Tengo la boca seca.",
+      "exampleDutch": "Mijn mond is droog."
+    },
+    {
+      "id": 357,
+      "spanish": "Dientes",
+      "dutch": "Tanden",
+      "exampleSpanish": "Me duelen los dientes.",
+      "exampleDutch": "Mijn tanden doen pijn."
+    },
+    {
+      "id": 358,
+      "spanish": "Oreja",
+      "dutch": "Oor",
+      "exampleSpanish": "Tengo dolor de oreja.",
+      "exampleDutch": "Ik heb oorpijn."
+    },
+    {
+      "id": 359,
+      "spanish": "Cuello",
+      "dutch": "Nek",
+      "exampleSpanish": "Me duele el cuello.",
+      "exampleDutch": "Mijn nek doet pijn."
+    },
+    {
+      "id": 360,
+      "spanish": "Hombro",
+      "dutch": "Schouder",
+      "exampleSpanish": "Tengo el hombro dolorido.",
+      "exampleDutch": "Mijn schouder is pijnlijk."
+    },
+    {
+      "id": 361,
+      "spanish": "Brazo",
+      "dutch": "Arm",
+      "exampleSpanish": "Me duele el brazo.",
+      "exampleDutch": "Mijn arm doet pijn."
+    },
+    {
+      "id": 362,
+      "spanish": "Mano",
+      "dutch": "Hand",
+      "exampleSpanish": "Tengo las manos frías.",
+      "exampleDutch": "Mijn handen zijn koud."
+    },
+    {
+      "id": 363,
+      "spanish": "Dedo",
+      "dutch": "Vinger",
+      "exampleSpanish": "Me corté el dedo.",
+      "exampleDutch": "Ik heb in mijn vinger gesneden."
+    },
+    {
+      "id": 364,
+      "spanish": "Pecho",
+      "dutch": "Borst",
+      "exampleSpanish": "Me duele el pecho.",
+      "exampleDutch": "Mijn borst doet pijn."
+    },
+    {
+      "id": 365,
+      "spanish": "Espalda",
+      "dutch": "Rug",
+      "exampleSpanish": "Tengo dolor de espalda.",
+      "exampleDutch": "Ik heb rugpijn."
+    },
+    {
+      "id": 366,
+      "spanish": "Estómago",
+      "dutch": "Maag / Buik",
+      "exampleSpanish": "Me duele el estómago.",
+      "exampleDutch": "Ik heb buikpijn."
+    },
+    {
+      "id": 367,
+      "spanish": "Pierna",
+      "dutch": "Been",
+      "exampleSpanish": "Me duele la pierna.",
+      "exampleDutch": "Mijn been doet pijn."
+    },
+    {
+      "id": 368,
+      "spanish": "Rodilla",
+      "dutch": "Knie",
+      "exampleSpanish": "Tengo la rodilla hinchada.",
+      "exampleDutch": "Mijn knie is opgezwollen."
+    },
+    {
+      "id": 369,
+      "spanish": "Pie",
+      "dutch": "Voet",
+      "exampleSpanish": "Me duelen los pies.",
+      "exampleDutch": "Mijn voeten doen pijn."
+    },
+    {
+      "id": 370,
+      "spanish": "Corazón",
+      "dutch": "Hart",
+      "exampleSpanish": "Tengo problemas del corazón.",
+      "exampleDutch": "Ik heb hartproblemen."
+    }
+  ]
+}
+

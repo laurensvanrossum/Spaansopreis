@@ -1,0 +1,147 @@
+{
+  "category": "Begroetingen",
+  "icon": "👋",
+  "words": [
+    {
+      "id": 1,
+      "spanish": "Hola",
+      "dutch": "Hallo",
+      "exampleSpanish": "¡Hola! ¿Cómo estás?",
+      "exampleDutch": "Hallo! Hoe gaat het met je?"
+    },
+    {
+      "id": 2,
+      "spanish": "Buenos días",
+      "dutch": "Goedemorgen",
+      "exampleSpanish": "Buenos días, señor.",
+      "exampleDutch": "Goedemorgen, meneer."
+    },
+    {
+      "id": 3,
+      "spanish": "Buenas tardes",
+      "dutch": "Goedemiddag",
+      "exampleSpanish": "Buenas tardes. ¿En qué puedo ayudarle?",
+      "exampleDutch": "Goedemiddag. Waarmee kan ik u helpen?"
+    },
+    {
+      "id": 4,
+      "spanish": "Buenas noches",
+      "dutch": "Goedenavond / Welterusten",
+      "exampleSpanish": "Buenas noches. Hasta mañana.",
+      "exampleDutch": "Goedenavond. Tot morgen."
+    },
+    {
+      "id": 5,
+      "spanish": "Adiós",
+      "dutch": "Tot ziens",
+      "exampleSpanish": "Adiós, que tengas un buen día.",
+      "exampleDutch": "Tot ziens, nog een fijne dag."
+    },
+    {
+      "id": 6,
+      "spanish": "Por favor",
+      "dutch": "Alstublieft",
+      "exampleSpanish": "Un café, por favor.",
+      "exampleDutch": "Een koffie, alstublieft."
+    },
+    {
+      "id": 7,
+      "spanish": "Gracias",
+      "dutch": "Dank je / Bedankt",
+      "exampleSpanish": "Muchas gracias por su ayuda.",
+      "exampleDutch": "Hartelijk bedankt voor uw hulp."
+    },
+    {
+      "id": 8,
+      "spanish": "De nada",
+      "dutch": "Graag gedaan",
+      "exampleSpanish": "De nada, es un placer.",
+      "exampleDutch": "Graag gedaan, het was me een genoegen."
+    },
+    {
+      "id": 9,
+      "spanish": "Perdón",
+      "dutch": "Pardon / Sorry",
+      "exampleSpanish": "Perdón, no hablo español muy bien.",
+      "exampleDutch": "Sorry, ik spreek niet zo goed Spaans."
+    },
+    {
+      "id": 10,
+      "spanish": "Disculpe",
+      "dutch": "Excuseer / Pardon",
+      "exampleSpanish": "Disculpe, ¿dónde está el baño?",
+      "exampleDutch": "Pardon, waar is het toilet?"
+    },
+    {
+      "id": 201,
+      "spanish": "Hasta luego",
+      "dutch": "Tot later",
+      "exampleSpanish": "Hasta luego, nos vemos mañana.",
+      "exampleDutch": "Tot later, tot morgen."
+    },
+    {
+      "id": 202,
+      "spanish": "Hasta pronto",
+      "dutch": "Tot snel / Tot ziens",
+      "exampleSpanish": "¡Hasta pronto!",
+      "exampleDutch": "Tot snel!"
+    },
+    {
+      "id": 203,
+      "spanish": "Nos vemos",
+      "dutch": "Tot ziens / We zien elkaar",
+      "exampleSpanish": "Nos vemos el viernes.",
+      "exampleDutch": "We zien elkaar vrijdag."
+    },
+    {
+      "id": 204,
+      "spanish": "Encantado",
+      "dutch": "Aangenaam",
+      "exampleSpanish": "Encantado de conocerte.",
+      "exampleDutch": "Aangenaam kennis te maken."
+    },
+    {
+      "id": 205,
+      "spanish": "Mucho gusto",
+      "dutch": "Aangenaam / Leuk je te ontmoeten",
+      "exampleSpanish": "Mucho gusto, soy María.",
+      "exampleDutch": "Aangenaam, ik ben María."
+    },
+    {
+      "id": 206,
+      "spanish": "Bienvenido",
+      "dutch": "Welkom",
+      "exampleSpanish": "Bienvenido a España.",
+      "exampleDutch": "Welkom in Spanje."
+    },
+    {
+      "id": 207,
+      "spanish": "¿Cómo estás?",
+      "dutch": "Hoe gaat het?",
+      "exampleSpanish": "Hola, ¿cómo estás?",
+      "exampleDutch": "Hallo, hoe gaat het?"
+    },
+    {
+      "id": 208,
+      "spanish": "Bien",
+      "dutch": "Goed",
+      "exampleSpanish": "Estoy bien, gracias.",
+      "exampleDutch": "Het gaat goed, dankje."
+    },
+    {
+      "id": 209,
+      "spanish": "Mal",
+      "dutch": "Slecht",
+      "exampleSpanish": "Me siento mal.",
+      "exampleDutch": "Ik voel me slecht."
+    },
+    {
+      "id": 210,
+      "spanish": "Así así",
+      "dutch": "Zo zo / Gaat wel",
+      "exampleSpanish": "Así así, un poco cansado.",
+      "exampleDutch": "Gaat wel, een beetje moe."
+    }
+  ]
+}
+

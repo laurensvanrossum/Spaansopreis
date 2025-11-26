@@ -1,0 +1,147 @@
+{
+  "category": "Documenten",
+  "icon": "📄",
+  "words": [
+    {
+      "id": 271,
+      "spanish": "Documento",
+      "dutch": "Document",
+      "exampleSpanish": "¿Tiene sus documentos?",
+      "exampleDutch": "Heeft u uw documenten?"
+    },
+    {
+      "id": 272,
+      "spanish": "Identificación",
+      "dutch": "Identificatie / ID",
+      "exampleSpanish": "Necesito una identificación.",
+      "exampleDutch": "Ik heb een ID nodig."
+    },
+    {
+      "id": 273,
+      "spanish": "Visa",
+      "dutch": "Visum",
+      "exampleSpanish": "¿Necesito una visa?",
+      "exampleDutch": "Heb ik een visum nodig?"
+    },
+    {
+      "id": 274,
+      "spanish": "Permiso",
+      "dutch": "Vergunning / Toestemming",
+      "exampleSpanish": "Necesito un permiso.",
+      "exampleDutch": "Ik heb een vergunning nodig."
+    },
+    {
+      "id": 275,
+      "spanish": "Formulario",
+      "dutch": "Formulier",
+      "exampleSpanish": "¿Dónde está el formulario?",
+      "exampleDutch": "Waar is het formulier?"
+    },
+    {
+      "id": 276,
+      "spanish": "Firma",
+      "dutch": "Handtekening",
+      "exampleSpanish": "Necesito su firma aquí.",
+      "exampleDutch": "Ik heb uw handtekening hier nodig."
+    },
+    {
+      "id": 277,
+      "spanish": "Firmar",
+      "dutch": "Tekenen / Ondertekenen",
+      "exampleSpanish": "¿Dónde firmo?",
+      "exampleDutch": "Waar moet ik tekenen?"
+    },
+    {
+      "id": 278,
+      "spanish": "Copiar",
+      "dutch": "Kopiëren",
+      "exampleSpanish": "Necesito copiar este documento.",
+      "exampleDutch": "Ik moet dit document kopiëren."
+    },
+    {
+      "id": 279,
+      "spanish": "Fotocopia",
+      "dutch": "Fotokopie",
+      "exampleSpanish": "¿Puede hacer una fotocopia?",
+      "exampleDutch": "Kunt u een fotokopie maken?"
+    },
+    {
+      "id": 280,
+      "spanish": "Original",
+      "dutch": "Origineel",
+      "exampleSpanish": "¿Necesita el original?",
+      "exampleDutch": "Heeft u het origineel nodig?"
+    },
+    {
+      "id": 281,
+      "spanish": "Certificado",
+      "dutch": "Certificaat / Verklaring",
+      "exampleSpanish": "Necesito un certificado médico.",
+      "exampleDutch": "Ik heb een medisch certificaat nodig."
+    },
+    {
+      "id": 282,
+      "spanish": "Comprobante",
+      "dutch": "Bewijs / Bewijsstuk",
+      "exampleSpanish": "Aquí está el comprobante.",
+      "exampleDutch": "Hier is het bewijs."
+    },
+    {
+      "id": 283,
+      "spanish": "Confirmación",
+      "dutch": "Bevestiging",
+      "exampleSpanish": "Tengo la confirmación de la reserva.",
+      "exampleDutch": "Ik heb de reserveringsbevestiging."
+    },
+    {
+      "id": 284,
+      "spanish": "Registro",
+      "dutch": "Registratie / Inschrijving",
+      "exampleSpanish": "¿Dónde hago el registro?",
+      "exampleDutch": "Waar doe ik de registratie?"
+    },
+    {
+      "id": 285,
+      "spanish": "Oficina",
+      "dutch": "Kantoor",
+      "exampleSpanish": "¿Dónde está la oficina?",
+      "exampleDutch": "Waar is het kantoor?"
+    },
+    {
+      "id": 286,
+      "spanish": "Empleado",
+      "dutch": "Medewerker",
+      "exampleSpanish": "Hable con un empleado.",
+      "exampleDutch": "Spreek met een medewerker."
+    },
+    {
+      "id": 287,
+      "spanish": "Gerente",
+      "dutch": "Manager",
+      "exampleSpanish": "Quiero hablar con el gerente.",
+      "exampleDutch": "Ik wil met de manager spreken."
+    },
+    {
+      "id": 288,
+      "spanish": "Quejar",
+      "dutch": "Klagen",
+      "exampleSpanish": "Quiero quejarme.",
+      "exampleDutch": "Ik wil klagen."
+    },
+    {
+      "id": 289,
+      "spanish": "Queja",
+      "dutch": "Klacht",
+      "exampleSpanish": "Tengo una queja.",
+      "exampleDutch": "Ik heb een klacht."
+    },
+    {
+      "id": 290,
+      "spanish": "Problema",
+      "dutch": "Probleem",
+      "exampleSpanish": "Hay un problema.",
+      "exampleDutch": "Er is een probleem."
+    }
+  ]
+}
+

@@ -1,0 +1,252 @@
+{
+  "category": "Activiteiten",
+  "icon": "🎭",
+  "words": [
+    {
+      "id": 131,
+      "spanish": "Playa",
+      "dutch": "Strand",
+      "exampleSpanish": "Vamos a la playa.",
+      "exampleDutch": "We gaan naar het strand."
+    },
+    {
+      "id": 132,
+      "spanish": "Mar",
+      "dutch": "Zee",
+      "exampleSpanish": "El mar está tranquilo.",
+      "exampleDutch": "De zee is rustig."
+    },
+    {
+      "id": 133,
+      "spanish": "Montaña",
+      "dutch": "Berg",
+      "exampleSpanish": "Subimos la montaña.",
+      "exampleDutch": "We beklimmen de berg."
+    },
+    {
+      "id": 134,
+      "spanish": "Museo",
+      "dutch": "Museum",
+      "exampleSpanish": "¿Dónde está el museo?",
+      "exampleDutch": "Waar is het museum?"
+    },
+    {
+      "id": 135,
+      "spanish": "Iglesia",
+      "dutch": "Kerk",
+      "exampleSpanish": "La iglesia es muy antigua.",
+      "exampleDutch": "De kerk is erg oud."
+    },
+    {
+      "id": 136,
+      "spanish": "Catedral",
+      "dutch": "Kathedraal",
+      "exampleSpanish": "La catedral es impresionante.",
+      "exampleDutch": "De kathedraal is indrukwekkend."
+    },
+    {
+      "id": 137,
+      "spanish": "Parque",
+      "dutch": "Park",
+      "exampleSpanish": "Vamos al parque.",
+      "exampleDutch": "We gaan naar het park."
+    },
+    {
+      "id": 138,
+      "spanish": "Zoo",
+      "dutch": "Dierentuin",
+      "exampleSpanish": "Los niños quieren ir al zoo.",
+      "exampleDutch": "De kinderen willen naar de dierentuin."
+    },
+    {
+      "id": 139,
+      "spanish": "Castillo",
+      "dutch": "Kasteel",
+      "exampleSpanish": "El castillo es del siglo quince.",
+      "exampleDutch": "Het kasteel is uit de vijftiende eeuw."
+    },
+    {
+      "id": 140,
+      "spanish": "Torre",
+      "dutch": "Toren",
+      "exampleSpanish": "Subimos a la torre.",
+      "exampleDutch": "We gaan de toren op."
+    },
+    {
+      "id": 141,
+      "spanish": "Monumento",
+      "dutch": "Monument",
+      "exampleSpanish": "Es un monumento histórico.",
+      "exampleDutch": "Het is een historisch monument."
+    },
+    {
+      "id": 142,
+      "spanish": "Tour",
+      "dutch": "Rondleiding",
+      "exampleSpanish": "Queremos hacer un tour.",
+      "exampleDutch": "We willen een rondleiding doen."
+    },
+    {
+      "id": 143,
+      "spanish": "Guía",
+      "dutch": "Gids",
+      "exampleSpanish": "¿Habla español el guía?",
+      "exampleDutch": "Spreekt de gids Spaans?"
+    },
+    {
+      "id": 144,
+      "spanish": "Entrada",
+      "dutch": "Toegang / Entree",
+      "exampleSpanish": "¿Cuánto cuesta la entrada?",
+      "exampleDutch": "Hoeveel kost de toegang?"
+    },
+    {
+      "id": 145,
+      "spanish": "Foto",
+      "dutch": "Foto",
+      "exampleSpanish": "¿Puedo tomar una foto?",
+      "exampleDutch": "Mag ik een foto maken?"
+    },
+    {
+      "id": 146,
+      "spanish": "Cámara",
+      "dutch": "Camera",
+      "exampleSpanish": "Olvidé mi cámara.",
+      "exampleDutch": "Ik ben mijn camera vergeten."
+    },
+    {
+      "id": 147,
+      "spanish": "Excursión",
+      "dutch": "Excursie / Uitstapje",
+      "exampleSpanish": "Vamos de excursión.",
+      "exampleDutch": "We gaan op excursie."
+    },
+    {
+      "id": 148,
+      "spanish": "Nadar",
+      "dutch": "Zwemmen",
+      "exampleSpanish": "Me gusta nadar en el mar.",
+      "exampleDutch": "Ik hou van zwemmen in de zee."
+    },
+    {
+      "id": 149,
+      "spanish": "Bucear",
+      "dutch": "Duiken",
+      "exampleSpanish": "Quiero bucear aquí.",
+      "exampleDutch": "Ik wil hier duiken."
+    },
+    {
+      "id": 150,
+      "spanish": "Caminar",
+      "dutch": "Wandelen",
+      "exampleSpanish": "Vamos a caminar por la ciudad.",
+      "exampleDutch": "We gaan door de stad wandelen."
+    },
+    {
+      "id": 151,
+      "spanish": "Paseo",
+      "dutch": "Wandeling",
+      "exampleSpanish": "Damos un paseo.",
+      "exampleDutch": "We maken een wandeling."
+    },
+    {
+      "id": 152,
+      "spanish": "Concierto",
+      "dutch": "Concert",
+      "exampleSpanish": "Hay un concierto esta noche.",
+      "exampleDutch": "Er is vanavond een concert."
+    },
+    {
+      "id": 153,
+      "spanish": "Teatro",
+      "dutch": "Theater",
+      "exampleSpanish": "Vamos al teatro.",
+      "exampleDutch": "We gaan naar het theater."
+    },
+    {
+      "id": 154,
+      "spanish": "Cine",
+      "dutch": "Bioscoop",
+      "exampleSpanish": "¿Qué dan en el cine?",
+      "exampleDutch": "Wat draait er in de bioscoop?"
+    },
+    {
+      "id": 155,
+      "spanish": "Fiesta",
+      "dutch": "Feest",
+      "exampleSpanish": "Hay una fiesta mañana.",
+      "exampleDutch": "Er is morgen een feest."
+    },
+    {
+      "id": 156,
+      "spanish": "Festival",
+      "dutch": "Festival",
+      "exampleSpanish": "El festival es en agosto.",
+      "exampleDutch": "Het festival is in augustus."
+    },
+    {
+      "id": 157,
+      "spanish": "Discoteca",
+      "dutch": "Discotheek / Club",
+      "exampleSpanish": "Vamos a la discoteca.",
+      "exampleDutch": "We gaan naar de club."
+    },
+    {
+      "id": 158,
+      "spanish": "Bar",
+      "dutch": "Bar",
+      "exampleSpanish": "Hay un bar cerca.",
+      "exampleDutch": "Er is een bar in de buurt."
+    },
+    {
+      "id": 159,
+      "spanish": "Mercado",
+      "dutch": "Markt",
+      "exampleSpanish": "El mercado está abierto.",
+      "exampleDutch": "De markt is open."
+    },
+    {
+      "id": 160,
+      "spanish": "Souvenir",
+      "dutch": "Souvenir",
+      "exampleSpanish": "Quiero comprar un souvenir.",
+      "exampleDutch": "Ik wil een souvenir kopen."
+    },
+    {
+      "id": 161,
+      "spanish": "Postal",
+      "dutch": "Ansichtkaart",
+      "exampleSpanish": "Envío una postal.",
+      "exampleDutch": "Ik stuur een ansichtkaart."
+    },
+    {
+      "id": 162,
+      "spanish": "Aventura",
+      "dutch": "Avontuur",
+      "exampleSpanish": "Me gustan las aventuras.",
+      "exampleDutch": "Ik hou van avonturen."
+    },
+    {
+      "id": 163,
+      "spanish": "Descansar",
+      "dutch": "Uitrusten / Rusten",
+      "exampleSpanish": "Necesito descansar.",
+      "exampleDutch": "Ik moet uitrusten."
+    },
+    {
+      "id": 164,
+      "spanish": "Relajarse",
+      "dutch": "Ontspannen",
+      "exampleSpanish": "Voy a relajarme.",
+      "exampleDutch": "Ik ga ontspannen."
+    },
+    {
+      "id": 165,
+      "spanish": "Disfrutar",
+      "dutch": "Genieten",
+      "exampleSpanish": "Disfruto de las vacaciones.",
+      "exampleDutch": "Ik geniet van de vakantie."
+    }
+  ]
+}
+

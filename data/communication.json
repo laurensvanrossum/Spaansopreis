@@ -1,0 +1,147 @@
+{
+  "category": "Communicatie",
+  "icon": "📱",
+  "words": [
+    {
+      "id": 231,
+      "spanish": "Hablar",
+      "dutch": "Praten / Spreken",
+      "exampleSpanish": "¿Habla inglés?",
+      "exampleDutch": "Spreekt u Engels?"
+    },
+    {
+      "id": 232,
+      "spanish": "Entender",
+      "dutch": "Begrijpen",
+      "exampleSpanish": "No entiendo.",
+      "exampleDutch": "Ik begrijp het niet."
+    },
+    {
+      "id": 233,
+      "spanish": "Repetir",
+      "dutch": "Herhalen",
+      "exampleSpanish": "¿Puede repetir, por favor?",
+      "exampleDutch": "Kunt u dat herhalen, alstublieft?"
+    },
+    {
+      "id": 234,
+      "spanish": "Más despacio",
+      "dutch": "Langzamer",
+      "exampleSpanish": "Más despacio, por favor.",
+      "exampleDutch": "Langzamer alstublieft."
+    },
+    {
+      "id": 235,
+      "spanish": "Llamar",
+      "dutch": "Bellen",
+      "exampleSpanish": "Necesito llamar a mi hotel.",
+      "exampleDutch": "Ik moet mijn hotel bellen."
+    },
+    {
+      "id": 236,
+      "spanish": "Teléfono móvil",
+      "dutch": "Mobiele telefoon",
+      "exampleSpanish": "¿Dónde está mi teléfono móvil?",
+      "exampleDutch": "Waar is mijn mobiele telefoon?"
+    },
+    {
+      "id": 237,
+      "spanish": "Mensaje",
+      "dutch": "Bericht",
+      "exampleSpanish": "Tengo un mensaje para ti.",
+      "exampleDutch": "Ik heb een bericht voor je."
+    },
+    {
+      "id": 238,
+      "spanish": "Correo electrónico",
+      "dutch": "E-mail",
+      "exampleSpanish": "¿Cuál es tu correo electrónico?",
+      "exampleDutch": "Wat is je e-mailadres?"
+    },
+    {
+      "id": 239,
+      "spanish": "Número",
+      "dutch": "Nummer",
+      "exampleSpanish": "¿Cuál es tu número de teléfono?",
+      "exampleDutch": "Wat is je telefoonnummer?"
+    },
+    {
+      "id": 240,
+      "spanish": "Contacto",
+      "dutch": "Contact",
+      "exampleSpanish": "Aquí está mi información de contacto.",
+      "exampleDutch": "Hier is mijn contactinformatie."
+    },
+    {
+      "id": 241,
+      "spanish": "Escribir",
+      "dutch": "Schrijven",
+      "exampleSpanish": "¿Puede escribirlo?",
+      "exampleDutch": "Kunt u het opschrijven?"
+    },
+    {
+      "id": 242,
+      "spanish": "Leer",
+      "dutch": "Lezen",
+      "exampleSpanish": "No puedo leer esto.",
+      "exampleDutch": "Ik kan dit niet lezen."
+    },
+    {
+      "id": 243,
+      "spanish": "Idioma",
+      "dutch": "Taal",
+      "exampleSpanish": "¿Qué idioma hablas?",
+      "exampleDutch": "Welke taal spreek je?"
+    },
+    {
+      "id": 244,
+      "spanish": "Traducir",
+      "dutch": "Vertalen",
+      "exampleSpanish": "¿Puede traducir esto?",
+      "exampleDutch": "Kunt u dit vertalen?"
+    },
+    {
+      "id": 245,
+      "spanish": "Palabra",
+      "dutch": "Woord",
+      "exampleSpanish": "¿Qué significa esta palabra?",
+      "exampleDutch": "Wat betekent dit woord?"
+    },
+    {
+      "id": 246,
+      "spanish": "Pregunta",
+      "dutch": "Vraag",
+      "exampleSpanish": "Tengo una pregunta.",
+      "exampleDutch": "Ik heb een vraag."
+    },
+    {
+      "id": 247,
+      "spanish": "Respuesta",
+      "dutch": "Antwoord",
+      "exampleSpanish": "No sé la respuesta.",
+      "exampleDutch": "Ik weet het antwoord niet."
+    },
+    {
+      "id": 248,
+      "spanish": "Nombre",
+      "dutch": "Naam",
+      "exampleSpanish": "¿Cómo te llamas?",
+      "exampleDutch": "Hoe heet je?"
+    },
+    {
+      "id": 249,
+      "spanish": "Dirección",
+      "dutch": "Adres",
+      "exampleSpanish": "¿Cuál es tu dirección?",
+      "exampleDutch": "Wat is je adres?"
+    },
+    {
+      "id": 250,
+      "spanish": "Información",
+      "dutch": "Informatie",
+      "exampleSpanish": "Necesito más información.",
+      "exampleDutch": "Ik heb meer informatie nodig."
+    }
+  ]
+}
+

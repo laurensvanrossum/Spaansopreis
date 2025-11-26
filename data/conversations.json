@@ -1,0 +1,389 @@
+{
+  "conversations": [
+    {
+      "id": 1,
+      "title": "Begroeting in een hotel",
+      "category": "Hotel",
+      "icon": "🏨",
+      "sentences": [
+        {
+          "spanish": "Buenos días. Tengo una reserva.",
+          "dutch": "Goedemorgen. Ik heb een reservering."
+        },
+        {
+          "spanish": "¿A qué nombre?",
+          "dutch": "Op welke naam?"
+        },
+        {
+          "spanish": "A nombre de García.",
+          "dutch": "Op naam van García."
+        },
+        {
+          "spanish": "Aquí está su llave. Habitación tres cero cinco.",
+          "dutch": "Hier is uw sleutel. Kamer drie nul vijf."
+        },
+        {
+          "spanish": "Gracias. ¿A qué hora es el desayuno?",
+          "dutch": "Dank u. Hoe laat is het ontbijt?"
+        },
+        {
+          "spanish": "El desayuno es de siete a diez.",
+          "dutch": "Het ontbijt is van zeven tot tien uur."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "In een restaurant bestellen",
+      "category": "Eten & Drinken",
+      "icon": "🍽️",
+      "sentences": [
+        {
+          "spanish": "Buenas tardes. Una mesa para dos, por favor.",
+          "dutch": "Goedemiddag. Een tafel voor twee, alstublieft."
+        },
+        {
+          "spanish": "Claro, síganme por favor.",
+          "dutch": "Natuurlijk, volgt u mij alstublieft."
+        },
+        {
+          "spanish": "¿Me trae el menú?",
+          "dutch": "Kunt u het menu brengen?"
+        },
+        {
+          "spanish": "Aquí está el menú. ¿Quieren algo de beber?",
+          "dutch": "Hier is het menu. Willen jullie iets drinken?"
+        },
+        {
+          "spanish": "Una botella de agua y dos cervezas, por favor.",
+          "dutch": "Een fles water en twee biertjes, alstublieft."
+        },
+        {
+          "spanish": "Muy bien. Enseguida se lo traigo.",
+          "dutch": "Prima. Ik breng het meteen."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "De weg vragen",
+      "category": "Richtingen",
+      "icon": "🗺️",
+      "sentences": [
+        {
+          "spanish": "Disculpe, ¿dónde está la estación de tren?",
+          "dutch": "Pardon, waar is het treinstation?"
+        },
+        {
+          "spanish": "Siga todo recto y gire a la derecha.",
+          "dutch": "Ga rechtdoor en sla rechtsaf."
+        },
+        {
+          "spanish": "¿Está cerca de aquí?",
+          "dutch": "Is het hier dichtbij?"
+        },
+        {
+          "spanish": "Sí, está muy cerca. A cinco minutos a pie.",
+          "dutch": "Ja, het is heel dichtbij. Vijf minuten lopen."
+        },
+        {
+          "spanish": "Muchas gracias por su ayuda.",
+          "dutch": "Hartelijk bedankt voor uw hulp."
+        },
+        {
+          "spanish": "De nada. Que tenga un buen día.",
+          "dutch": "Graag gedaan. Nog een fijne dag."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Een taxi nemen",
+      "category": "Vervoer",
+      "icon": "🚕",
+      "sentences": [
+        {
+          "spanish": "Necesito un taxi al aeropuerto, por favor.",
+          "dutch": "Ik heb een taxi naar de luchthaven nodig, alstublieft."
+        },
+        {
+          "spanish": "Claro. ¿A qué terminal?",
+          "dutch": "Natuurlijk. Naar welke terminal?"
+        },
+        {
+          "spanish": "A la terminal dos.",
+          "dutch": "Naar terminal twee."
+        },
+        {
+          "spanish": "Muy bien. Son veinte minutos.",
+          "dutch": "Prima. Het is twintig minuten."
+        },
+        {
+          "spanish": "Perfecto. ¿Cuánto cuesta?",
+          "dutch": "Perfect. Hoeveel kost het?"
+        },
+        {
+          "spanish": "Unos veinticinco euros.",
+          "dutch": "Ongeveer vijfentwintig euro."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Op de luchthaven",
+      "category": "Luchthaven",
+      "icon": "✈️",
+      "sentences": [
+        {
+          "spanish": "Buenos días. Aquí está mi pasaporte.",
+          "dutch": "Goedemorgen. Hier is mijn paspoort."
+        },
+        {
+          "spanish": "Gracias. ¿Lleva equipaje?",
+          "dutch": "Dank u. Heeft u bagage?"
+        },
+        {
+          "spanish": "Sí, una maleta.",
+          "dutch": "Ja, één koffer."
+        },
+        {
+          "spanish": "Perfecto. Su tarjeta de embarque. La puerta es la doce.",
+          "dutch": "Perfect. Uw instapkaart. De gate is nummer twaalf."
+        },
+        {
+          "spanish": "¿A qué hora sale el vuelo?",
+          "dutch": "Hoe laat vertrekt de vlucht?"
+        },
+        {
+          "spanish": "El vuelo sale a las tres y media.",
+          "dutch": "De vlucht vertrekt om half vier."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "In een winkel",
+      "category": "Winkelen",
+      "icon": "🛍️",
+      "sentences": [
+        {
+          "spanish": "Hola, ¿puedo ayudarle?",
+          "dutch": "Hallo, kan ik u helpen?"
+        },
+        {
+          "spanish": "Sí, quiero comprar un recuerdo.",
+          "dutch": "Ja, ik wil een souvenir kopen."
+        },
+        {
+          "spanish": "¿Qué le parece esta bolsa?",
+          "dutch": "Wat vindt u van deze tas?"
+        },
+        {
+          "spanish": "Me gusta. ¿Cuál es el precio?",
+          "dutch": "Ik vind hem mooi. Wat is de prijs?"
+        },
+        {
+          "spanish": "Son quince euros.",
+          "dutch": "Het is vijftien euro."
+        },
+        {
+          "spanish": "Perfecto. ¿Puedo pagar con tarjeta?",
+          "dutch": "Perfect. Kan ik met de kaart betalen?"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Een kamer reserveren",
+      "category": "Hotel",
+      "icon": "🏨",
+      "sentences": [
+        {
+          "spanish": "Buenas tardes. Quiero reservar una habitación.",
+          "dutch": "Goedemiddag. Ik wil een kamer reserveren."
+        },
+        {
+          "spanish": "¿Individual o doble?",
+          "dutch": "Eenpersoons of tweepersoons?"
+        },
+        {
+          "spanish": "Una habitación doble, por favor.",
+          "dutch": "Een tweepersoonskamer, alstublieft."
+        },
+        {
+          "spanish": "¿Para cuántas noches?",
+          "dutch": "Voor hoeveel nachten?"
+        },
+        {
+          "spanish": "Para tres noches.",
+          "dutch": "Voor drie nachten."
+        },
+        {
+          "spanish": "Muy bien. Son cien euros por noche.",
+          "dutch": "Prima. Het is honderd euro per nacht."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "De rekening vragen",
+      "category": "Eten & Drinken",
+      "icon": "🍽️",
+      "sentences": [
+        {
+          "spanish": "La cuenta, por favor.",
+          "dutch": "De rekening, alstublieft."
+        },
+        {
+          "spanish": "Enseguida. ¿Todo bien?",
+          "dutch": "Meteen. Was alles goed?"
+        },
+        {
+          "spanish": "Sí, la comida estaba deliciosa.",
+          "dutch": "Ja, het eten was heerlijk."
+        },
+        {
+          "spanish": "Me alegro. Aquí está la cuenta.",
+          "dutch": "Fijn om te horen. Hier is de rekening."
+        },
+        {
+          "spanish": "¿Aceptan tarjeta?",
+          "dutch": "Accepteren jullie bankpas?"
+        },
+        {
+          "spanish": "Sí, claro. Por aquí, por favor.",
+          "dutch": "Ja, natuurlijk. Deze kant op, alstublieft."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Een treinkaartje kopen",
+      "category": "Vervoer",
+      "icon": "🚂",
+      "sentences": [
+        {
+          "spanish": "Buenos días. Quiero comprar un billete a Madrid.",
+          "dutch": "Goedemorgen. Ik wil een ticket naar Madrid kopen."
+        },
+        {
+          "spanish": "¿De ida o de ida y vuelta?",
+          "dutch": "Enkele reis of retour?"
+        },
+        {
+          "spanish": "De ida y vuelta, por favor.",
+          "dutch": "Retour, alstublieft."
+        },
+        {
+          "spanish": "¿Para qué día?",
+          "dutch": "Voor welke dag?"
+        },
+        {
+          "spanish": "Para hoy y vuelvo mañana.",
+          "dutch": "Voor vandaag en ik kom morgen terug."
+        },
+        {
+          "spanish": "Perfecto. Son cincuenta euros.",
+          "dutch": "Perfect. Het is vijftig euro."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "In geval van nood",
+      "category": "Noodgevallen",
+      "icon": "🚨",
+      "sentences": [
+        {
+          "spanish": "Disculpe, necesito ayuda.",
+          "dutch": "Pardon, ik heb hulp nodig."
+        },
+        {
+          "spanish": "¿Qué ocurre?",
+          "dutch": "Wat is er aan de hand?"
+        },
+        {
+          "spanish": "Estoy enfermo. Necesito ver a un médico.",
+          "dutch": "Ik ben ziek. Ik moet een dokter zien."
+        },
+        {
+          "spanish": "Hay un hospital cerca. Llamo una ambulancia.",
+          "dutch": "Er is een ziekenhuis dichtbij. Ik bel een ambulance."
+        },
+        {
+          "spanish": "Gracias. ¿Dónde está el hospital?",
+          "dutch": "Dank u. Waar is het ziekenhuis?"
+        },
+        {
+          "spanish": "Está a cinco minutos. La ambulancia llega enseguida.",
+          "dutch": "Het is vijf minuten hiervandaan. De ambulance komt meteen."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Naar het strand vragen",
+      "category": "Richtingen",
+      "icon": "🏖️",
+      "sentences": [
+        {
+          "spanish": "Perdón, ¿cómo llego a la playa?",
+          "dutch": "Sorry, hoe kom ik bij het strand?"
+        },
+        {
+          "spanish": "Es fácil. Gire a la izquierda y siga recto.",
+          "dutch": "Het is makkelijk. Sla linksaf en ga rechtdoor."
+        },
+        {
+          "spanish": "¿Está lejos?",
+          "dutch": "Is het ver?"
+        },
+        {
+          "spanish": "No, está muy cerca. Diez minutos a pie.",
+          "dutch": "Nee, het is heel dichtbij. Tien minuten lopen."
+        },
+        {
+          "spanish": "¿Hay autobús?",
+          "dutch": "Is er een bus?"
+        },
+        {
+          "spanish": "Sí, el autobús número cinco va a la playa.",
+          "dutch": "Ja, bus nummer vijf gaat naar het strand."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Koffie bestellen",
+      "category": "Eten & Drinken",
+      "icon": "☕",
+      "sentences": [
+        {
+          "spanish": "Buenos días. Un café con leche, por favor.",
+          "dutch": "Goedemorgen. Een koffie met melk, alstublieft."
+        },
+        {
+          "spanish": "¿Grande o pequeño?",
+          "dutch": "Groot of klein?"
+        },
+        {
+          "spanish": "Grande, por favor.",
+          "dutch": "Groot, alstublieft."
+        },
+        {
+          "spanish": "¿Algo más?",
+          "dutch": "Nog iets anders?"
+        },
+        {
+          "spanish": "Sí, un pan también.",
+          "dutch": "Ja, ook een broodje."
+        },
+        {
+          "spanish": "Muy bien. Son tres euros.",
+          "dutch": "Prima. Het is drie euro."
+        }
+      ]
+    }
+  ]
+}
+

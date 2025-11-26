@@ -1,0 +1,77 @@
+{
+  "category": "Luchthaven",
+  "icon": "✈️",
+  "words": [
+    {
+      "id": 11,
+      "spanish": "Aeropuerto",
+      "dutch": "Luchthaven",
+      "exampleSpanish": "¿Cómo llego al aeropuerto?",
+      "exampleDutch": "Hoe kom ik bij de luchthaven?"
+    },
+    {
+      "id": 12,
+      "spanish": "Vuelo",
+      "dutch": "Vlucht",
+      "exampleSpanish": "Mi vuelo sale a las tres.",
+      "exampleDutch": "Mijn vlucht vertrekt om drie uur."
+    },
+    {
+      "id": 13,
+      "spanish": "Equipaje",
+      "dutch": "Bagage",
+      "exampleSpanish": "He perdido mi equipaje.",
+      "exampleDutch": "Ik ben mijn bagage kwijt."
+    },
+    {
+      "id": 14,
+      "spanish": "Maleta",
+      "dutch": "Koffer",
+      "exampleSpanish": "¿Dónde puedo recoger mi maleta?",
+      "exampleDutch": "Waar kan ik mijn koffer ophalen?"
+    },
+    {
+      "id": 15,
+      "spanish": "Pasaporte",
+      "dutch": "Paspoort",
+      "exampleSpanish": "Aquí está mi pasaporte.",
+      "exampleDutch": "Hier is mijn paspoort."
+    },
+    {
+      "id": 16,
+      "spanish": "Tarjeta de embarque",
+      "dutch": "Instapkaart",
+      "exampleSpanish": "¿Dónde imprimo mi tarjeta de embarque?",
+      "exampleDutch": "Waar kan ik mijn instapkaart printen?"
+    },
+    {
+      "id": 17,
+      "spanish": "Puerta",
+      "dutch": "Gate",
+      "exampleSpanish": "La puerta es la número doce.",
+      "exampleDutch": "De gate is nummer twaalf."
+    },
+    {
+      "id": 18,
+      "spanish": "Facturación",
+      "dutch": "Inchecken",
+      "exampleSpanish": "¿Dónde está la facturación?",
+      "exampleDutch": "Waar is het inchecken?"
+    },
+    {
+      "id": 19,
+      "spanish": "Retraso",
+      "dutch": "Vertraging",
+      "exampleSpanish": "El vuelo tiene un retraso de dos horas.",
+      "exampleDutch": "De vlucht heeft twee uur vertraging."
+    },
+    {
+      "id": 20,
+      "spanish": "Aduana",
+      "dutch": "Douane",
+      "exampleSpanish": "Pasamos por la aduana.",
+      "exampleDutch": "We gaan door de douane."
+    }
+  ]
+}
+

@@ -1,0 +1,147 @@
+{
+  "category": "Gezondheid",
+  "icon": "🏥",
+  "words": [
+    {
+      "id": 251,
+      "spanish": "Salud",
+      "dutch": "Gezondheid",
+      "exampleSpanish": "Cuido mi salud.",
+      "exampleDutch": "Ik let op mijn gezondheid."
+    },
+    {
+      "id": 252,
+      "spanish": "Medicina",
+      "dutch": "Medicijn / Geneesmiddel",
+      "exampleSpanish": "Necesito medicina para el dolor.",
+      "exampleDutch": "Ik heb pijnstillers nodig."
+    },
+    {
+      "id": 253,
+      "spanish": "Receta",
+      "dutch": "Recept",
+      "exampleSpanish": "Necesito una receta médica.",
+      "exampleDutch": "Ik heb een medisch recept nodig."
+    },
+    {
+      "id": 254,
+      "spanish": "Pastilla",
+      "dutch": "Pil / Tablet",
+      "exampleSpanish": "Tomo una pastilla cada día.",
+      "exampleDutch": "Ik neem elke dag een pil."
+    },
+    {
+      "id": 255,
+      "spanish": "Jarabe",
+      "dutch": "Siroop",
+      "exampleSpanish": "Necesito jarabe para la tos.",
+      "exampleDutch": "Ik heb hoestsiroop nodig."
+    },
+    {
+      "id": 256,
+      "spanish": "Dolor de cabeza",
+      "dutch": "Hoofdpijn",
+      "exampleSpanish": "Tengo dolor de cabeza.",
+      "exampleDutch": "Ik heb hoofdpijn."
+    },
+    {
+      "id": 257,
+      "spanish": "Fiebre",
+      "dutch": "Koorts",
+      "exampleSpanish": "Creo que tengo fiebre.",
+      "exampleDutch": "Ik denk dat ik koorts heb."
+    },
+    {
+      "id": 258,
+      "spanish": "Tos",
+      "dutch": "Hoest",
+      "exampleSpanish": "Tengo tos.",
+      "exampleDutch": "Ik heb hoest."
+    },
+    {
+      "id": 259,
+      "spanish": "Resfriado",
+      "dutch": "Verkoudheid",
+      "exampleSpanish": "Estoy resfriado.",
+      "exampleDutch": "Ik ben verkouden."
+    },
+    {
+      "id": 260,
+      "spanish": "Gripe",
+      "dutch": "Griep",
+      "exampleSpanish": "Tengo gripe.",
+      "exampleDutch": "Ik heb griep."
+    },
+    {
+      "id": 261,
+      "spanish": "Alergia",
+      "dutch": "Allergie",
+      "exampleSpanish": "Tengo alergia a los cacahuetes.",
+      "exampleDutch": "Ik ben allergisch voor pinda's."
+    },
+    {
+      "id": 262,
+      "spanish": "Herida",
+      "dutch": "Wond",
+      "exampleSpanish": "Tengo una herida en el brazo.",
+      "exampleDutch": "Ik heb een wond aan mijn arm."
+    },
+    {
+      "id": 263,
+      "spanish": "Tiritas",
+      "dutch": "Pleister",
+      "exampleSpanish": "¿Tiene tiritas?",
+      "exampleDutch": "Heeft u pleisters?"
+    },
+    {
+      "id": 264,
+      "spanish": "Venda",
+      "dutch": "Verband",
+      "exampleSpanish": "Necesito una venda.",
+      "exampleDutch": "Ik heb verband nodig."
+    },
+    {
+      "id": 265,
+      "spanish": "Enfermera",
+      "dutch": "Verpleegster / Verpleegkundige",
+      "exampleSpanish": "La enfermera es muy amable.",
+      "exampleDutch": "De verpleegster is erg vriendelijk."
+    },
+    {
+      "id": 266,
+      "spanish": "Dentista",
+      "dutch": "Tandarts",
+      "exampleSpanish": "Necesito un dentista.",
+      "exampleDutch": "Ik heb een tandarts nodig."
+    },
+    {
+      "id": 267,
+      "spanish": "Cita",
+      "dutch": "Afspraak",
+      "exampleSpanish": "Quiero hacer una cita.",
+      "exampleDutch": "Ik wil een afspraak maken."
+    },
+    {
+      "id": 268,
+      "spanish": "Urgente",
+      "dutch": "Urgent / Spoedeisend",
+      "exampleSpanish": "Es urgente.",
+      "exampleDutch": "Het is urgent."
+    },
+    {
+      "id": 269,
+      "spanish": "Sangre",
+      "dutch": "Bloed",
+      "exampleSpanish": "Hay sangre.",
+      "exampleDutch": "Er is bloed."
+    },
+    {
+      "id": 270,
+      "spanish": "Síntoma",
+      "dutch": "Symptoom",
+      "exampleSpanish": "¿Qué síntomas tiene?",
+      "exampleDutch": "Welke symptomen heeft u?"
+    }
+  ]
+}
+
