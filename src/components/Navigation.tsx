@@ -12,6 +12,7 @@ export default function Navigation() {
     { href: '/woorden', label: 'Woorden' },
     { href: '/gesprekken', label: 'Gesprekken' },
     { href: '/games', label: 'Games' },
+    { href: '/blog', label: 'Blog' },
   ];
 
   return (

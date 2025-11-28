@@ -22,6 +22,9 @@ export default function SpaansTellen() {
   const [showFeedback, setShowFeedback] = useState(false);
   const [score, setScore] = useState(0);
   const [questionsAnswered, setQuestionsAnswered] = useState(0);
+  const [gameFinished, setGameFinished] = useState(false);
+  
+  const MAX_QUESTIONS = 10;
 
   // Create number lookup with actual numeric values
   const numbersList: NumberWord[] = numbersData.words.map((word: { id: number; spanish: string; dutch: string }, index: number) => ({
@@ -97,6 +100,19 @@ export default function SpaansTellen() {
   };
 
   const handleNextQuestion = () => {
+    if (questionsAnswered >= MAX_QUESTIONS) {
+      setGameFinished(true);
+    } else {
+      generateQuestion();
+    }
+  };
+
+  const handleRestart = () => {
+    setScore(0);
+    setQuestionsAnswered(0);
+    setGameFinished(false);
+    setSelectedAnswer(null);
+    setShowFeedback(false);
     generateQuestion();
   };
 
@@ -114,12 +130,66 @@ export default function SpaansTellen() {
   const isCorrect = selectedAnswer === question.result;
   const correctAnswerWord = numbersList[question.result];
 
+  // Show results screen when game is finished
+  if (gameFinished) {
+    const percentage = Math.round((score / MAX_QUESTIONS) * 100);
+    let message = '';
+    let emoji = '';
+
+    if (percentage === 100) {
+      message = 'Perfect! Je hebt alles goed!';
+      emoji = '🏆';
+    } else if (percentage >= 80) {
+      message = 'Uitstekend werk!';
+      emoji = '🌟';
+    } else if (percentage >= 60) {
+      message = 'Goed gedaan!';
+      emoji = '👍';
+    } else if (percentage >= 40) {
+      message = 'Blijf oefenen!';
+      emoji = '💪';
+    } else {
+      message = 'Ga zo door, je kunt het!';
+      emoji = '📚';
+    }
+
+    return (
+      <div className="max-w-2xl mx-auto">
+        <div className="bg-white rounded-lg shadow-lg p-8 text-center">
+          <div className="text-8xl mb-6">{emoji}</div>
+          <h2 className="text-3xl font-bold text-gray-900 mb-4">
+            Spel Afgelopen!
+          </h2>
+          <p className="text-xl text-gray-600 mb-8">{message}</p>
+          
+          {/* Score Summary */}
+          <div className="bg-orange-50 rounded-lg p-6 mb-8">
+            <div className="text-6xl font-bold text-orange-600 mb-2">
+              {score}/{MAX_QUESTIONS}
+            </div>
+            <div className="text-2xl text-gray-700">
+              {percentage}% correct
+            </div>
+          </div>
+
+          {/* Restart Button */}
+          <button
+            onClick={handleRestart}
+            className="px-8 py-4 bg-orange-600 text-white rounded-lg font-bold text-lg hover:bg-orange-700 transition-colors shadow-lg"
+          >
+            🔄 Nog een keer spelen
+          </button>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="max-w-2xl mx-auto">
       {/* Score Display */}
       <div className="mb-6 flex justify-between items-center">
         <div className="text-sm text-gray-600">
-          Vragen beantwoord: <span className="font-semibold">{questionsAnswered}</span>
+          Vraag: <span className="font-semibold">{questionsAnswered + 1}/{MAX_QUESTIONS}</span>
         </div>
         <div className="text-sm text-green-600">
           Score: <span className="font-semibold">{score}/{questionsAnswered}</span>

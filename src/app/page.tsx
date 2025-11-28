@@ -15,7 +15,7 @@ export default function Home() {
         </div>
 
         {/* Feature Cards */}
-        <div className="grid md:grid-cols-3 gap-8 mb-12">
+        <div className="grid md:grid-cols-4 gap-8 mb-12">
           <Link href="/woorden" className="group">
             <div className="bg-white rounded-lg shadow-md p-8 hover:shadow-xl transition-shadow h-full">
               <div className="text-4xl mb-4">📚</div>
@@ -48,6 +48,18 @@ export default function Home() {
               </h2>
               <p className="text-gray-600">
                 Maak leren leuk met verschillende taalgames en uitdagingen.
+              </p>
+            </div>
+          </Link>
+
+          <Link href="/blog" className="group">
+            <div className="bg-white rounded-lg shadow-md p-8 hover:shadow-xl transition-shadow h-full">
+              <div className="text-4xl mb-4">✍️</div>
+              <h2 className="text-2xl font-semibold text-gray-900 mb-3 group-hover:text-orange-600 transition-colors">
+                Blog
+              </h2>
+              <p className="text-gray-600">
+                Lees handige tips, reisadviezen en verhalen over Spanje en de Spaanse taal.
               </p>
             </div>
           </Link>

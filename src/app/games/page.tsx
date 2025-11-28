@@ -129,7 +129,7 @@ export default function Games() {
                   ➕ Optellen & Aftrekken
                 </span>
                 <span className="bg-green-100 text-green-700 text-xs px-3 py-1 rounded-full font-medium">
-                  📊 Score tracking
+                  📝 10 Vragen
                 </span>
               </div>
 

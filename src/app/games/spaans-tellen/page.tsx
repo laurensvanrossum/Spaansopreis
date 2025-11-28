@@ -47,7 +47,7 @@ export default function SpaansTellenPage() {
             </div>
             <div className="bg-orange-100 px-4 py-2 rounded-full">
               <span className="text-orange-700 font-semibold">
-                📊 Score tracking
+                📝 10 Vragen
               </span>
             </div>
           </div>
@@ -61,4 +61,5 @@ export default function SpaansTellenPage() {
     </div>
   );
 }
+
 

@@ -183,15 +183,6 @@ export default function Etenstijd() {
         </div>
       </div>
 
-      {/* Instructions */}
-      {!showResults && matches.length === 0 && (
-        <div className="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
-          <p className="text-blue-900 font-medium text-sm">
-            💡 Klik eerst op een afbeelding, dan op het bijpassende Spaanse woord
-          </p>
-        </div>
-      )}
-
       {/* Game Area */}
       <div className="grid lg:grid-cols-2 gap-8 mb-6">
         {/* Images Grid */}
