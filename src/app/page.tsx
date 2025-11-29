@@ -1,6 +1,65 @@
 import Link from 'next/link';
+import WordOfTheDayCard from '@/components/WordOfTheDayCard';
+import { getWordOfTheDay, getAllWords, getCategoryForWord, CategoryData } from '@/utils/wordOfTheDay';
+
+// Import all vocabulary data (same as woorden page)
+import greetingsData from '../../data/greetings.json';
+import airportData from '../../data/airport.json';
+import hotelData from '../../data/hotel.json';
+import transportData from '../../data/transport.json';
+import foodData from '../../data/food.json';
+import directionsData from '../../data/directions.json';
+import emergencyData from '../../data/emergency.json';
+import shoppingData from '../../data/shopping.json';
+import numbersData from '../../data/numbers.json';
+import weatherData from '../../data/weather.json';
+import activitiesData from '../../data/activities.json';
+import accommodationData from '../../data/accommodation.json';
+import moneyData from '../../data/money.json';
+import communicationData from '../../data/communication.json';
+import healthData from '../../data/health.json';
+import documentsData from '../../data/documents.json';
+import clothingData from '../../data/clothing.json';
+import colorsData from '../../data/colors.json';
+import familyData from '../../data/family.json';
+import bodyData from '../../data/body.json';
+import groenteEnFruitData from '../../data/groente-en-fruit.json';
 
 export default function Home() {
+  // Gather all categories
+  const categories: CategoryData[] = [
+    greetingsData,
+    airportData,
+    hotelData,
+    transportData,
+    foodData,
+    directionsData,
+    emergencyData,
+    shoppingData,
+    numbersData,
+    weatherData,
+    activitiesData,
+    accommodationData,
+    moneyData,
+    communicationData,
+    healthData,
+    documentsData,
+    clothingData,
+    colorsData,
+    familyData,
+    bodyData,
+    groenteEnFruitData,
+  ];
+
+  // Get all words from all categories
+  const allWords = getAllWords(categories);
+  
+  // Get today's word
+  const wordOfTheDay = getWordOfTheDay(allWords);
+  
+  // Get the category for the word
+  const category = wordOfTheDay ? getCategoryForWord(wordOfTheDay, categories) : null;
+
   return (
     <div className="min-h-screen bg-gradient-to-b from-orange-50 to-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -63,6 +122,11 @@ export default function Home() {
               </p>
             </div>
           </Link>
+        </div>
+
+        {/* Word of the Day Section */}
+        <div className="mb-12">
+          <WordOfTheDayCard word={wordOfTheDay} category={category} />
         </div>
 
         {/* Call to Action */}
