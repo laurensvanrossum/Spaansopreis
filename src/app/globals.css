@@ -59,6 +59,19 @@ body {
   transform: rotateY(180deg);
 }
 
+/* Hide details/summary disclosure triangle */
+details summary {
+  list-style: none;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details summary::marker {
+  display: none;
+}
+
 /* Blog Post Typography - Improved and Responsive */
 .prose {
   color: #374151;

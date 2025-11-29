@@ -25,6 +25,7 @@ export default function Etenstijd() {
   const [gameItems, setGameItems] = useState<GameItem[]>([]);
   const [shuffledWords, setShuffledWords] = useState<string[]>([]);
   const [selectedImage, setSelectedImage] = useState<number | null>(null);
+  const [selectedWord, setSelectedWord] = useState<string | null>(null);
   const [matches, setMatches] = useState<Match[]>([]);
   const [showResults, setShowResults] = useState(false);
   const [score, setScore] = useState(0);
@@ -83,6 +84,7 @@ export default function Etenstijd() {
     setGameItems(itemsWithEmojis);
     setShuffledWords(words);
     setSelectedImage(null);
+    setSelectedWord(null);
     setMatches([]);
     setShowResults(false);
   };
@@ -90,6 +92,38 @@ export default function Etenstijd() {
   useEffect(() => {
     startNewRound();
   }, []);
+
+  // Attempt to make a match when both image and word are selected
+  const attemptMatch = (imageId: number, word: string) => {
+    // Find the selected item
+    const item = gameItems.find((i) => i.id === imageId);
+    if (!item) return;
+
+    // Check if match is correct
+    const isCorrect = item.spanish === word;
+
+    // Always add match (correct or incorrect)
+    const newMatch: Match = {
+      itemId: imageId,
+      selectedWord: word,
+      isCorrect,
+    };
+
+    const newMatches = [...matches, newMatch];
+    setMatches(newMatches);
+
+    // Clear selections
+    setSelectedImage(null);
+    setSelectedWord(null);
+
+    // Check if all 8 items are matched (regardless of correct/incorrect)
+    if (newMatches.length === 8) {
+      const correctCount = newMatches.filter((m) => m.isCorrect).length;
+      setScore(score + correctCount);
+      setTotalRounds(totalRounds + 1);
+      setShowResults(true);
+    }
+  };
 
   // Handle image click
   const handleImageClick = (itemId: number) => {
@@ -99,41 +133,41 @@ export default function Etenstijd() {
     const alreadyMatched = matches.find((m) => m.itemId === itemId);
     if (alreadyMatched) return;
 
-    setSelectedImage(itemId);
+    // If clicking the same image, deselect it
+    if (selectedImage === itemId) {
+      setSelectedImage(null);
+      return;
+    }
+
+    // If a word is already selected, attempt match
+    if (selectedWord !== null) {
+      attemptMatch(itemId, selectedWord);
+    } else {
+      // Otherwise, just select this image
+      setSelectedImage(itemId);
+    }
   };
 
   // Handle word click
   const handleWordClick = (word: string) => {
-    if (showResults || selectedImage === null) return;
+    if (showResults) return;
 
-    // Check if word already used
+    // Check if word already used in ANY match (correct or incorrect)
     const wordAlreadyUsed = matches.find((m) => m.selectedWord === word);
     if (wordAlreadyUsed) return;
 
-    // Find the selected item
-    const item = gameItems.find((i) => i.id === selectedImage);
-    if (!item) return;
+    // If clicking the same word, deselect it
+    if (selectedWord === word) {
+      setSelectedWord(null);
+      return;
+    }
 
-    // Check if match is correct
-    const isCorrect = item.spanish === word;
-
-    // Add match
-    const newMatch: Match = {
-      itemId: selectedImage,
-      selectedWord: word,
-      isCorrect,
-    };
-
-    const newMatches = [...matches, newMatch];
-    setMatches(newMatches);
-    setSelectedImage(null);
-
-    // Check if all items are matched
-    if (newMatches.length === 8) {
-      const correctCount = newMatches.filter((m) => m.isCorrect).length;
-      setScore(score + correctCount);
-      setTotalRounds(totalRounds + 1);
-      setShowResults(true);
+    // If an image is already selected, attempt match
+    if (selectedImage !== null) {
+      attemptMatch(selectedImage, word);
+    } else {
+      // Otherwise, just select this word
+      setSelectedWord(word);
     }
   };
 
@@ -142,7 +176,7 @@ export default function Etenstijd() {
     return matches.find((m) => m.itemId === itemId);
   };
 
-  // Check if word is used
+  // Check if word is used (in any match)
   const isWordUsed = (word: string) => {
     return matches.some((m) => m.selectedWord === word);
   };
@@ -198,6 +232,7 @@ export default function Etenstijd() {
               let cardClasses = 'relative aspect-square rounded-xl border-4 transition-all cursor-pointer flex items-center justify-center p-4 ';
               
               if (match) {
+                // Show green for correct, red for incorrect
                 if (match.isCorrect) {
                   cardClasses += 'bg-green-100 border-green-500 cursor-default';
                 } else {
@@ -219,7 +254,7 @@ export default function Etenstijd() {
                   {/* Emoji */}
                   <div className="text-7xl">{item.emoji}</div>
                   
-                  {/* Match feedback */}
+                  {/* Match feedback - show for both correct and incorrect */}
                   {match && (
                     <div className="absolute -top-3 -right-3 text-3xl bg-white rounded-full shadow-md">
                       {match.isCorrect ? '✅' : '❌'}
@@ -240,15 +275,19 @@ export default function Etenstijd() {
             {shuffledWords.map((word, index) => {
               const isUsed = isWordUsed(word);
               const match = matches.find((m) => m.selectedWord === word);
+              const isSelected = selectedWord === word;
               
               let buttonClasses = 'p-4 rounded-xl border-2 transition-all font-medium text-center ';
               
               if (isUsed) {
+                // Show green for correct, red for incorrect
                 if (match?.isCorrect) {
                   buttonClasses += 'bg-green-100 border-green-500 text-green-900 cursor-default';
                 } else {
                   buttonClasses += 'bg-red-100 border-red-500 text-red-900 cursor-default';
                 }
+              } else if (isSelected) {
+                buttonClasses += 'bg-orange-100 border-orange-500 shadow-lg scale-105 text-gray-900';
               } else {
                 buttonClasses += 'bg-white border-gray-300 text-gray-900 hover:bg-orange-50 hover:border-orange-400 cursor-pointer';
               }
@@ -258,7 +297,7 @@ export default function Etenstijd() {
                   key={index}
                   onClick={() => handleWordClick(word)}
                   className={buttonClasses}
-                  disabled={showResults || isUsed || selectedImage === null}
+                  disabled={showResults || isUsed}
                 >
                   {word}
                 </button>
@@ -303,7 +342,7 @@ export default function Etenstijd() {
 
       {/* Help Text */}
       <div className="mt-6 text-center text-sm text-gray-600">
-        <p>💡 Match alle 8 afbeeldingen met de juiste Spaanse namen</p>
+        <p>💡 Klik op een afbeelding en daarna op het juiste woord (of andersom)</p>
       </div>
     </div>
   );

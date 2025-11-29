@@ -159,40 +159,6 @@ export default function BlogPage() {
               </section>
             </>
           )}
-
-          {/* Newsletter CTA - Only show when there are blog posts */}
-          {blogPosts.length > 0 && (
-            <section
-              aria-labelledby="newsletter-heading"
-              className="bg-gradient-to-r from-orange-600 to-orange-500 text-white rounded-2xl shadow-xl p-8 md:p-12 text-center"
-            >
-              <h2 id="newsletter-heading" className="text-3xl font-bold mb-4">
-                📬 Blijf op de Hoogte!
-              </h2>
-              <p className="text-xl text-orange-100 mb-6 max-w-2xl mx-auto">
-                Ontvang nieuwe artikelen, tips en exclusieve Spaanse lessen direct in je inbox
-              </p>
-              <form className="max-w-md mx-auto flex flex-col sm:flex-row gap-3">
-                <input
-                  type="email"
-                  placeholder="Je e-mailadres"
-                  className="flex-1 px-6 py-3 rounded-full text-gray-900 focus:outline-none focus:ring-4 focus:ring-orange-300"
-                  aria-label="E-mailadres voor nieuwsbrief"
-                  required
-                />
-                <button
-                  type="submit"
-                  className="px-8 py-3 bg-white text-orange-600 rounded-full font-bold hover:bg-orange-50 transition-colors shadow-lg"
-                  aria-label="Inschrijven voor nieuwsbrief"
-                >
-                  Inschrijven
-                </button>
-              </form>
-              <p className="text-sm text-orange-100 mt-4">
-                Geen spam, alleen nuttige content. Uitschrijven kan altijd.
-              </p>
-            </section>
-          )}
         </main>
 
         {/* Footer Info */}

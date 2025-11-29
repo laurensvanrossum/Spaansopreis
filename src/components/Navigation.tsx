@@ -3,9 +3,11 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { usePathname } from 'next/navigation';
+import { useRef } from 'react';
 
 export default function Navigation() {
   const pathname = usePathname();
+  const detailsRef = useRef<HTMLDetailsElement>(null);
 
   const links = [
     { href: '/', label: 'Homepagina' },
@@ -14,6 +16,13 @@ export default function Navigation() {
     { href: '/games', label: 'Games' },
     { href: '/blog', label: 'Blog' },
   ];
+
+  // Close mobile menu when a link is clicked
+  const closeMobileMenu = () => {
+    if (detailsRef.current) {
+      detailsRef.current.open = false;
+    }
+  };
 
   return (
     <nav className="bg-white shadow-sm border-b">
@@ -55,7 +64,7 @@ export default function Navigation() {
 
           {/* Mobile Navigation */}
           <div className="md:hidden">
-            <details className="relative">
+            <details ref={detailsRef} className="relative">
               <summary className="cursor-pointer px-3 py-2 text-gray-700 hover:text-orange-600 list-none">
                 <svg
                   className="w-6 h-6"
@@ -74,6 +83,7 @@ export default function Navigation() {
                   <Link
                     key={link.href}
                     href={link.href}
+                    onClick={closeMobileMenu}
                     className={`block px-4 py-2 text-sm ${
                       pathname === link.href
                         ? 'text-orange-600 bg-orange-50'
@@ -91,4 +101,3 @@ export default function Navigation() {
     </nav>
   );
 }
-
