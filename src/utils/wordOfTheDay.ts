@@ -34,20 +34,30 @@ function hashString(str: string): number {
 }
 
 /**
- * Get today's date in YYYY-MM-DD format
- * @returns Date string
+ * Get today's date in Amsterdam timezone (Europe/Amsterdam)
+ * @returns Date string in YYYY-MM-DD format
  */
 function getTodayString(): string {
-  const today = new Date();
-  const year = today.getFullYear();
-  const month = String(today.getMonth() + 1).padStart(2, '0');
-  const day = String(today.getDate()).padStart(2, '0');
-  return `${year}-${month}-${day}`;
+  // Use Amsterdam timezone to ensure consistent date across users
+  const now = new Date();
+  const amsterdamDateString = now.toLocaleString('en-US', {
+    timeZone: 'Europe/Amsterdam',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  });
+  
+  // Parse the date (format: MM/DD/YYYY)
+  const [month, day, year] = amsterdamDateString.split('/');
+  
+  // Return in YYYY-MM-DD format
+  return `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}`;
 }
 
 /**
  * Get the Word of the Day
  * Uses a deterministic approach: hash today's date and use modulo to select a word
+ * Excludes number categories from selection
  * @param words - Array of all available words
  * @returns The selected word, or null if no words exist
  */
@@ -57,7 +67,7 @@ export function getWordOfTheDay(words: Word[]): Word | null {
     return null;
   }
 
-  // Get today's date as a string
+  // Get today's date as a string (Amsterdam timezone)
   const todayString = getTodayString();
   
   // Hash the date to get a deterministic number
@@ -71,11 +81,17 @@ export function getWordOfTheDay(words: Word[]): Word | null {
 
 /**
  * Flatten all words from multiple categories into a single array
+ * Excludes numbers category from word of the day selection
  * @param categories - Array of category data
- * @returns Flat array of all words
+ * @returns Flat array of all words (excluding numbers)
  */
 export function getAllWords(categories: CategoryData[]): Word[] {
-  return categories.flatMap(category => category.words);
+  // Filter out the "Getallen" (numbers) category
+  const categoriesWithoutNumbers = categories.filter(
+    category => category.category !== 'Getallen' && category.category !== 'Numbers'
+  );
+  
+  return categoriesWithoutNumbers.flatMap(category => category.words);
 }
 
 /**
@@ -92,4 +108,5 @@ export function getCategoryForWord(word: Word, categories: CategoryData[]): { na
   }
   return null;
 }
+
 

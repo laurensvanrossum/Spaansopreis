@@ -14,7 +14,7 @@ export default function Navigation() {
     { href: '/woorden', label: 'Woorden' },
     { href: '/gesprekken', label: 'Gesprekken' },
     { href: '/games', label: 'Games' },
-    { href: '/blog', label: 'Blog' },
+    { href: '/spaans-leren', label: 'Spaans Leren' },
   ];
 
   // Close mobile menu when a link is clicked

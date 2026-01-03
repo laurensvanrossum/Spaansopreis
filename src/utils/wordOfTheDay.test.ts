@@ -110,3 +110,4 @@ testEmptyArray();
 testGetCategoryForWord();
 console.log('=== All tests completed ===');
 
+
