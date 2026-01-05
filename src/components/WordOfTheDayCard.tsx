@@ -31,7 +31,7 @@ export default function WordOfTheDayCard({ word, category }: WordOfTheDayCardPro
       {/* Header */}
       <div className="flex items-center justify-between mb-3">
         <h2 className="text-lg sm:text-xl font-bold text-gray-900">
-          ✨ Woord van de dag
+          Woord van de dag
         </h2>
         {category && (
           <span className="text-xl sm:text-2xl" title={category.name}>

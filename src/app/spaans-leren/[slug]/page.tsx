@@ -452,7 +452,7 @@ export default async function SpaansLerenPostPage({ params }: { params: Promise<
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
       />
 
-      <div className="min-h-screen bg-gradient-to-b from-orange-50 to-white">
+      <div className="min-h-screen bg-gradient-to-b from-[#F0EBE0] to-white">
         {/* Back to Spaans Leren Link */}
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6 sm:pt-8">
           <Link
@@ -563,27 +563,27 @@ export default async function SpaansLerenPostPage({ params }: { params: Promise<
           </div>
 
           {/* Call to Action */}
-          <div className="mt-12 p-6 sm:p-8 bg-gradient-to-r from-orange-600 to-orange-500 text-white rounded-2xl shadow-xl max-w-3xl mx-auto">
+          <div className="mt-12 p-6 sm:p-8 bg-[#F0EBE0] text-gray-900 rounded-2xl shadow-xl max-w-3xl mx-auto border-2 border-gray-200">
             <h3 className="text-xl sm:text-2xl font-bold mb-3 sm:mb-4">🎮 Oefen wat je hebt geleerd!</h3>
-            <p className="text-orange-100 mb-6 text-sm sm:text-base">
+            <p className="text-gray-700 mb-6 text-sm sm:text-base">
               Gebruik onze interactieve games om je Spaanse vaardigheden te verbeteren
             </p>
             <div className="flex flex-wrap gap-3 sm:gap-4 justify-center sm:justify-start">
               <Link
                 href="/games/flashcards"
-                className="px-5 sm:px-6 py-2 sm:py-3 bg-white text-orange-600 rounded-full font-bold hover:bg-orange-50 transition-colors text-sm sm:text-base"
+                className="px-5 sm:px-6 py-2 sm:py-3 bg-orange-600 text-white rounded-full font-bold hover:bg-orange-700 transition-colors text-sm sm:text-base"
               >
                 Flashcards
               </Link>
               <Link
                 href="/games/quiz"
-                className="px-5 sm:px-6 py-2 sm:py-3 bg-white text-orange-600 rounded-full font-bold hover:bg-orange-50 transition-colors text-sm sm:text-base"
+                className="px-5 sm:px-6 py-2 sm:py-3 bg-orange-600 text-white rounded-full font-bold hover:bg-orange-700 transition-colors text-sm sm:text-base"
               >
                 Quiz
               </Link>
               <Link
                 href="/woorden"
-                className="px-5 sm:px-6 py-2 sm:py-3 bg-white text-orange-600 rounded-full font-bold hover:bg-orange-50 transition-colors text-sm sm:text-base"
+                className="px-5 sm:px-6 py-2 sm:py-3 bg-orange-600 text-white rounded-full font-bold hover:bg-orange-700 transition-colors text-sm sm:text-base"
               >
                 Woordenlijst
               </Link>

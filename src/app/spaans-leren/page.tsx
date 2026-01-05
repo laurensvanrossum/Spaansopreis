@@ -72,17 +72,17 @@ export default function SpaansLerenPage() {
   // Filter to only show published posts (Amsterdam timezone)
   const spaansLerenPosts = filterPublishedPosts(allSpaansLerenPosts);
   return (
-    <div className="min-h-screen bg-gradient-to-b from-orange-50/30 to-white">
+    <div className="min-h-screen bg-gradient-to-b from-[#F0EBE0] to-white">
       {/* Hero Section */}
-      <div className="relative bg-gradient-to-r from-orange-600 to-orange-500 text-white overflow-hidden">
+      <div className="relative bg-[#F0EBE0] text-gray-900 overflow-hidden">
         <div className="absolute inset-0 bg-[url('/patterns/topography.svg')] opacity-10" />
         
-        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 md:py-28">
+        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 md:py-6">
           <div className="text-center">
             <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
               Spaans Leren
             </h1>
-            <p className="text-xl md:text-2xl text-orange-100 max-w-3xl mx-auto mb-8">
+            <p className="text-xl md:text-2xl text-gray-700 max-w-3xl mx-auto mb-8">
               Ontdek de beste tips, tricks en methoden om Spaans te leren voor je volgende reis
             </p>
             
@@ -90,19 +90,19 @@ export default function SpaansLerenPage() {
             <div className="flex flex-wrap justify-center gap-4">
               <Link
                 href="/woorden"
-                className="px-6 py-3 bg-white text-orange-600 rounded-full font-semibold hover:bg-orange-50 transition-colors shadow-lg"
+                className="px-6 py-3 bg-orange-600 text-white rounded-full font-semibold hover:bg-orange-700 transition-colors shadow-lg"
               >
                 📚 Woordenlijst
               </Link>
               <Link
                 href="/gesprekken"
-                className="px-6 py-3 bg-white/10 backdrop-blur-sm text-white border-2 border-white rounded-full font-semibold hover:bg-white/20 transition-colors"
+                className="px-6 py-3 bg-white text-gray-900 border-2 border-gray-900 rounded-full font-semibold hover:bg-gray-50 transition-colors"
               >
                 💬 Gesprekken
               </Link>
               <Link
                 href="/games"
-                className="px-6 py-3 bg-white/10 backdrop-blur-sm text-white border-2 border-white rounded-full font-semibold hover:bg-white/20 transition-colors"
+                className="px-6 py-3 bg-white text-gray-900 border-2 border-gray-900 rounded-full font-semibold hover:bg-gray-50 transition-colors"
               >
                 🎮 Games
               </Link>
@@ -116,7 +116,7 @@ export default function SpaansLerenPage() {
         {/* Section Header */}
         <div className="mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-            ✨ Ontdek Onze Artikelen
+            Ontdek onze artikelen
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl">
             Van praktische tips tot motiverende verhalen - alles wat je nodig hebt om Spaans te leren voor je reis
@@ -128,24 +128,24 @@ export default function SpaansLerenPage() {
       </main>
 
       {/* CTA Section */}
-      <section className="bg-gradient-to-r from-orange-600 to-orange-500 text-white py-16 md:py-20 mt-16">
+      <section className="bg-[#F0EBE0] text-gray-900 py-16 md:py-20 mt-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-6">
             Klaar om te beginnen met Spaans leren?
           </h2>
-          <p className="text-xl text-orange-100 mb-8 max-w-2xl mx-auto">
+          <p className="text-xl text-gray-700 mb-8 max-w-2xl mx-auto">
             Start vandaag nog met onze interactieve lessen en games
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
               href="/woorden"
-              className="px-8 py-4 bg-white text-orange-600 rounded-full font-bold hover:bg-orange-50 transition-colors shadow-xl text-lg"
+              className="px-8 py-4 bg-orange-600 text-white rounded-full font-bold hover:bg-orange-700 transition-colors shadow-xl text-lg"
             >
               Start met Woorden Leren
             </Link>
             <Link
               href="/games"
-              className="px-8 py-4 bg-white/10 backdrop-blur-sm text-white border-2 border-white rounded-full font-bold hover:bg-white/20 transition-colors text-lg"
+              className="px-8 py-4 bg-white text-gray-900 border-2 border-gray-900 rounded-full font-bold hover:bg-gray-50 transition-colors text-lg"
             >
               Oefen met Games
             </Link>
@@ -156,7 +156,7 @@ export default function SpaansLerenPage() {
       {/* Learning Path Section */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-8 text-center">
-          🎯 Jouw Leerpad
+          Jouw leerpad
         </h2>
         
         <div className="grid md:grid-cols-3 gap-8">
