@@ -17,7 +17,7 @@ interface BlogGridLargeProps {
 export default function BlogGridLarge({ posts }: BlogGridLargeProps) {
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
-      {posts.map((post) => (
+      {posts.map((post, index) => (
         <BlogCardLarge
           key={post.id}
           id={post.id}
@@ -25,6 +25,7 @@ export default function BlogGridLarge({ posts }: BlogGridLargeProps) {
           category={post.category}
           slug={post.slug}
           coverImage={post.coverImage}
+          priority={index < 3}
         />
       ))}
     </div>

@@ -10,9 +10,10 @@ interface BlogCardLargeProps {
   category: string;
   slug: string;
   coverImage: string;
+  priority?: boolean;
 }
 
-export default function BlogCardLarge({ title, category, slug, coverImage }: BlogCardLargeProps) {
+export default function BlogCardLarge({ title, category, slug, coverImage, priority = false }: BlogCardLargeProps) {
   return (
     <Link href={`/spaans-leren/${slug}`}>
       <motion.article
@@ -28,7 +29,7 @@ export default function BlogCardLarge({ title, category, slug, coverImage }: Blo
             fill
             className="object-cover"
             sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
-            priority
+            priority={priority}
           />
           
           {/* Dark Gradient Overlay */}

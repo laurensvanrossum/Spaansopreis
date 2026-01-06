@@ -122,13 +122,14 @@ export default function Home() {
 
         {/* Cards Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
-          {navigationCards.map((card) => (
+          {navigationCards.map((card, index) => (
             <NavigationCard
               key={card.id}
               title={card.title}
               category={card.category}
               href={card.href}
               coverImage={card.coverImage}
+              priority={index < 2}
             />
           ))}
         </div>

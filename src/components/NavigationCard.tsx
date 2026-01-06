@@ -9,9 +9,10 @@ interface NavigationCardProps {
   category: string;
   href: string;
   coverImage: string;
+  priority?: boolean;
 }
 
-export default function NavigationCard({ title, category, href, coverImage }: NavigationCardProps) {
+export default function NavigationCard({ title, category, href, coverImage, priority = false }: NavigationCardProps) {
   return (
     <Link href={href}>
       <motion.article
@@ -27,7 +28,7 @@ export default function NavigationCard({ title, category, href, coverImage }: Na
             fill
             className="object-cover"
             sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
-            priority
+            priority={priority}
           />
           
           {/* Dark Gradient Overlay */}
