@@ -22,10 +22,10 @@ export default function VocabularyCard({ word, showExamples }: VocabularyCardPro
         <div className="flex-1">
           <div className="flex items-start gap-3">
             <div className="flex-1">
-              <h3 className="text-2xl font-bold text-orange-600 mb-2">
+              <h3 className="text-2xl font-bold text-orange-600 mb-2" lang="es">
                 {word.spanish}
               </h3>
-              <p className="text-lg text-gray-700">{word.dutch}</p>
+              <p className="text-lg text-gray-700" lang="nl">{word.dutch}</p>
             </div>
             <SpeechButton text={word.spanish} size="md" />
           </div>
@@ -38,14 +38,14 @@ export default function VocabularyCard({ word, showExamples }: VocabularyCardPro
             <div className="flex items-start gap-3">
               <div className="flex-1">
                 <p className="text-sm text-gray-500 mb-1">Spaans:</p>
-                <p className="text-gray-800 italic">{word.exampleSpanish}</p>
+                <p className="text-gray-800 italic" lang="es">{word.exampleSpanish}</p>
               </div>
               <SpeechButton text={word.exampleSpanish} size="sm" />
             </div>
           </div>
           <div className="bg-blue-50 p-3 rounded">
             <p className="text-sm text-gray-500 mb-1">Nederlands:</p>
-            <p className="text-gray-800">{word.exampleDutch}</p>
+            <p className="text-gray-800" lang="nl">{word.exampleDutch}</p>
           </div>
         </div>
       )}

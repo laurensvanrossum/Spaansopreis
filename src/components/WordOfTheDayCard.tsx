@@ -45,14 +45,14 @@ export default function WordOfTheDayCard({ word, category }: WordOfTheDayCardPro
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 mb-2">
           <div>
             <p className="text-xs text-gray-500 mb-0.5">Spaans</p>
-            <p className="text-xl sm:text-2xl font-bold text-orange-600">
+            <p className="text-xl sm:text-2xl font-bold text-orange-600" lang="es">
               {word.spanish}
             </p>
           </div>
           <div className="text-2xl text-gray-300 hidden sm:block">→</div>
           <div>
             <p className="text-xs text-gray-500 mb-0.5">Nederlands</p>
-            <p className="text-lg sm:text-xl font-semibold text-gray-900">
+            <p className="text-lg sm:text-xl font-semibold text-gray-900" lang="nl">
               {word.dutch}
             </p>
           </div>
@@ -73,10 +73,10 @@ export default function WordOfTheDayCard({ word, category }: WordOfTheDayCardPro
           <p className="text-xs text-gray-500 mb-1">Voorbeeldzin</p>
           <div className="space-y-1">
             <p className="text-xs sm:text-sm italic text-gray-700">
-              <span className="font-semibold text-orange-600">ES:</span> "{word.exampleSpanish}"
+              <span className="font-semibold text-orange-600">ES:</span> <span lang="es">"{word.exampleSpanish}"</span>
             </p>
             <p className="text-xs text-gray-600">
-              <span className="font-semibold">NL:</span> "{word.exampleDutch}"
+              <span className="font-semibold">NL:</span> <span lang="nl">"{word.exampleDutch}"</span>
             </p>
           </div>
         </div>
