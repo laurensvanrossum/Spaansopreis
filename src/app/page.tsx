@@ -31,28 +31,28 @@ const navigationCards = [
     title: 'Woorden',
     category: 'Woordenschat',
     href: '/woorden',
-    coverImage: '/homepage/woorden.jpg',
+    coverImage: '/homepage/woorden.webp',
   },
   {
     id: 2,
     title: 'Gesprekken',
     category: 'Praktijk',
     href: '/gesprekken',
-    coverImage: '/homepage/gesprekken.jpg',
+    coverImage: '/homepage/gesprekken.webp',
   },
   {
     id: 3,
     title: 'Games',
     category: 'Oefenen',
     href: '/games',
-    coverImage: '/homepage/games.jpg',
+    coverImage: '/homepage/games.webp',
   },
   {
     id: 4,
     title: 'Spaans Leren',
     category: 'Artikelen',
     href: '/spaans-leren',
-    coverImage: '/homepage/spaans-leren.JPG',
+    coverImage: '/homepage/spaans-leren.webp',
   },
 ];
 

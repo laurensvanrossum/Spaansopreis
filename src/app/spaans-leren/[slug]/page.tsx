@@ -12,7 +12,7 @@ const allSpaansLerenPosts = [
     excerpt: 'Spaans staat al jaren in de top van populairste talen om te leren. Ontdek waarom Spaans leren zo\'n slimme én plezierige keuze is.',
     date: '2025-11-28',
     category: 'Spaans leren',
-    thumbnail: '/blog/spaans-leren.jpg',
+    thumbnail: '/blog/spaans-leren.webp',
     author: 'Jasmijn de Jong',
     slug: 'waarom-spaans-leren-leuker-en-handiger-is',
     content: `
@@ -74,7 +74,7 @@ const allSpaansLerenPosts = [
     excerpt: 'Elk jaar nemen we ons van alles voor. Maar veel goede voornemens verdwijnen al snel. Spaans leren voor op reis is anders - het is een voornemen dat je écht volhoudt.',
     date: '2026-01-01',
     category: 'Algemeen',
-    thumbnail: '/blog/new-year-resolutions.jpg',
+    thumbnail: '/blog/new-year-resolutions.webp',
     author: 'Ingeborg Mare',
     slug: 'goed-voornemen-spaans-leren-voor-op-reis',
     content: `
@@ -131,7 +131,7 @@ const allSpaansLerenPosts = [
     excerpt: 'Spaans leren voor een reis kan best spannend zijn. Veel mensen starten enthousiast, maar haken af als het te schools of te moeilijk wordt. Daarom werkt Spaans leren met spelletjes zo goed.',
     date: '2026-01-03',
     category: 'Spelletjes',
-    thumbnail: '/blog/learning-games.jpg',
+    thumbnail: '/blog/learning-games.webp',
     author: 'Jasmijn de Jong',
     slug: 'spaans-leren-met-spelletjes',
     content: `
@@ -182,7 +182,7 @@ const allSpaansLerenPosts = [
     excerpt: 'Veel mensen denken dat ze pas Spaans kunnen spreken als ze het "goed genoeg" beheersen. Maar juist die gedachte zorgt ervoor dat Spaans vaak ongebruikt blijft op reis. Fout Spaans is altijd beter dan geen Spaans.',
     date: '2026-01-06',
     category: 'Spaans leren',
-    thumbnail: '/blog/mistakes-are-okay.jpg',
+    thumbnail: '/blog/mistakes-are-okay.webp',
     author: 'Jasmijn de Jong',
     slug: 'waarom-fout-spaans-beter-is-dan-geen-spaans',
     content: `
@@ -239,7 +239,7 @@ const allSpaansLerenPosts = [
     excerpt: 'Een van de meest gestelde vragen bij het leren van Spaans is: hoeveel tijd kost het eigenlijk? Voor Spaans op reis heb je verrassend weinig tijd nodig.',
     date: '2026-01-09',
     category: 'Spaans leren',
-    thumbnail: '/blog/time-to-learn.jpg',
+    thumbnail: '/blog/time-to-learn.webp',
     author: 'Pablo Gutierez',
     slug: 'hoeveel-tijd-spaans-leren',
     content: `
@@ -312,7 +312,7 @@ const allSpaansLerenPosts = [
     excerpt: 'Je hoeft geen vloeiend Spaans te spreken om jezelf te redden op reis. Met een handvol essentiële woorden kom je al verrassend ver.',
     date: '2026-01-10',
     category: 'Spaans leren',
-    thumbnail: '/blog/essential-words.jpg',
+    thumbnail: '/blog/essential-words.webp',
     author: 'Jasmijn de Jong',
     slug: '5-spaanse-woorden-die-elke-reiziger-moet-kennen',
     content: `
@@ -373,7 +373,7 @@ const allSpaansLerenPosts = [
   excerpt: 'Guatemala is een van de populairste landen om Spaans te leren in Midden-Amerika. Ontdek hoe taalscholen werken, wat het kost en waarom het zo effectief is.',
   date: '2026-01-12',
   category: 'Spaans leren in het buitenland',
-  thumbnail: '/blog/spaans-leren-guatemala.jpg',
+  thumbnail: '/blog/spaans-leren-guatemala.webp',
   author: 'Jasmijn de Jong',
   slug: 'spaans-leren-in-guatemala',
   content: `
@@ -411,7 +411,7 @@ const allSpaansLerenPosts = [
   excerpt: 'Bolivia is perfect voor reizigers die Spaans willen leren in een rustig tempo. Lees hoe het werkt, wat het kost en waar je op moet letten.',
   date: '2026-01-14',
   category: 'Spaans leren in het buitenland',
-  thumbnail: '/blog/spaans-leren-bolivia.jpg',
+  thumbnail: '/blog/spaans-leren-bolivia.webp',
   author: 'Jasmijn de Jong',
   slug: 'spaans-leren-in-bolivia',
   content: `
@@ -442,7 +442,7 @@ const allSpaansLerenPosts = [
   excerpt: 'Colombia staat bekend om zijn duidelijke Spaans en vriendelijke bevolking. Ontdek waarom dit land zo populair is om Spaans te leren.',
   date: '2026-01-16',
   category: 'Spaans leren in het buitenland',
-  thumbnail: '/blog/spaans-leren-colombia.jpg',
+  thumbnail: '/blog/spaans-leren-colombia.webp',
   author: 'Jasmijn de Jong',
   slug: 'spaans-leren-in-colombia',
   content: `
@@ -473,7 +473,7 @@ const allSpaansLerenPosts = [
   excerpt: 'Nicaragua combineert ontspannen reizen met effectief Spaans leren. Ontdek hoe taalscholen werken en hoe je het meeste uit je lessen haalt.',
   date: '2026-01-18',
   category: 'Spaans leren in het buitenland',
-  thumbnail: '/blog/spaans-leren-nicaragua.jpg',
+  thumbnail: '/blog/spaans-leren-nicaragua.webp',
   author: 'Jasmijn de Jong',
   slug: 'spaans-leren-in-nicaragua',
   content: `
@@ -503,7 +503,7 @@ const allSpaansLerenPosts = [
   excerpt: 'Spaans leren tijdens je reis door Midden- en Zuid-Amerika is effectief en leuk. Ontdek hoe taalscholen werken, wat het kost en hoe je je goed voorbereidt.',
   date: '2026-01-20',
   category: 'Spaans leren in het buitenland',
-  thumbnail: '/blog/spaans-leren-latijns-amerika.jpg',
+  thumbnail: '/blog/spaans-leren-latijns-amerika.webp',
   author: 'Jasmijn de Jong',
   slug: 'spaans-leren-midden-en-zuid-amerika',
   content: `
