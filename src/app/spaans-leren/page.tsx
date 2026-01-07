@@ -23,7 +23,7 @@ const allSpaansLerenPosts = [
     title: 'Waarom Spaans leren zoveel leuker én handiger is dan je denkt',
     category: 'Spaans leren',
     slug: 'waarom-spaans-leren-leuker-en-handiger-is',
-    coverImage: '/blog/spaans-leren.jpg',
+    coverImage: '/blog/spaans-leren.webp',
     date: '2025-11-28',
   },
   {
@@ -31,7 +31,7 @@ const allSpaansLerenPosts = [
     title: 'Een goed voornemen dat je reis écht beter maakt: Spaans leren voor op reis',
     category: 'Algemeen',
     slug: 'goed-voornemen-spaans-leren-voor-op-reis',
-    coverImage: '/blog/new-year-resolutions.jpg',
+    coverImage: '/blog/new-year-resolutions.webp',
     date: '2026-01-01',
   },
   {
@@ -39,7 +39,7 @@ const allSpaansLerenPosts = [
     title: 'Spaans leren met spelletjes',
     category: 'Spelletjes',
     slug: 'spaans-leren-met-spelletjes',
-    coverImage: '/blog/learning-games.jpg',
+    coverImage: '/blog/learning-games.webp',
     date: '2026-01-03',
   },
   {
@@ -47,7 +47,7 @@ const allSpaansLerenPosts = [
     title: 'Waarom fout Spaans beter is dan geen Spaans',
     category: 'Spaans leren',
     slug: 'waarom-fout-spaans-beter-is-dan-geen-spaans',
-    coverImage: '/blog/mistakes-are-okay.jpg',
+    coverImage: '/blog/mistakes-are-okay.webp',
     date: '2026-01-06',
   },
   {
@@ -55,7 +55,7 @@ const allSpaansLerenPosts = [
     title: 'Hoeveel tijd moet je besteden om Spaans te leren?',
     category: 'Spaans leren',
     slug: 'hoeveel-tijd-spaans-leren',
-    coverImage: '/blog/time-to-learn.jpg',
+    coverImage: '/blog/time-to-learn.webp',
     date: '2026-01-09',
   },
   {
@@ -63,7 +63,7 @@ const allSpaansLerenPosts = [
     title: '5 Spaanse woorden die elke reiziger moet kennen',
     category: 'Spaans leren',
     slug: '5-spaanse-woorden-die-elke-reiziger-moet-kennen',
-    coverImage: '/blog/essential-words.jpg',
+    coverImage: '/blog/essential-words.webp',
     date: '2026-01-10',
   },
 {
@@ -71,7 +71,7 @@ const allSpaansLerenPosts = [
   title: 'Spaans leren in Guatemala: betaalbaar en intensief voor reizigers',
   category: 'Spaans leren',
   slug: 'spaans-leren-in-guatemala',
-  coverImage: '/blog/spaans-leren-guatemala.jpg',
+  coverImage: '/blog/spaans-leren-guatemala.webp',
   date: '2026-01-07',
 },
 {
@@ -79,7 +79,7 @@ const allSpaansLerenPosts = [
   title: 'Spaans leren in Bolivia: rustig tempo en maximale focus',
   category: 'Spaans leren',
   slug: 'spaans-leren-in-bolivia',
-  coverImage: '/blog/spaans-leren-bolivia.jpg',
+  coverImage: '/blog/spaans-leren-bolivia.webp',
   date: '2026-01-13',
 },
 {
@@ -87,21 +87,21 @@ const allSpaansLerenPosts = [
   title: 'Spaans leren in Colombia: sociaal leren met een duidelijk accent',
   category: 'Spaans leren',
   slug: 'spaans-leren-in-colombia',
-  coverImage: '/blog/spaans-leren-colombia.jpg',
+  coverImage: '/blog/spaans-leren-colombia.webp',
   date: '2026-01-16',
 },{
   id: 10,
   title: 'Spaans leren in Nicaragua: ontspannen leren tijdens je reis',
   category: 'Spaans leren',
   slug: 'spaans-leren-in-nicaragua',
-  coverImage: '/blog/spaans-leren-nicaragua.jpg',
+  coverImage: '/blog/spaans-leren-nicaragua.webp',
   date: '2026-01-18',
 },{
   id: 11,
   title: 'Spaans leren in Midden- en Zuid-Amerika: hoe het werkt, kosten en tips',
   category: 'Spaans leren',
   slug: 'spaans-leren-midden-en-zuid-amerika',
-  coverImage: '/blog/spaans-leren-latijns-amerika.jpg',
+  coverImage: '/blog/spaans-leren-latijns-amerika.webp',
   date: '2026-01-20',
 },
 ];
