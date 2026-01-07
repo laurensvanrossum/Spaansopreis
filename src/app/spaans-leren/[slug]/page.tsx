@@ -371,7 +371,7 @@ const allSpaansLerenPosts = [
   id: 7,
   title: 'Spaans leren in Guatemala: intensief, betaalbaar en persoonlijk',
   excerpt: 'Guatemala is een van de populairste landen om Spaans te leren in Midden-Amerika. Ontdek hoe taalscholen werken, wat het kost en waarom het zo effectief is.',
-  date: '2026-01-12',
+  date: '2026-01-07',
   category: 'Spaans leren in het buitenland',
   thumbnail: '/blog/spaans-leren-guatemala.webp',
   author: 'Jasmijn de Jong',
