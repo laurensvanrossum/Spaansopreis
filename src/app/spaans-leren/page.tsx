@@ -66,6 +66,44 @@ const allSpaansLerenPosts = [
     coverImage: '/blog/essential-words.jpg',
     date: '2026-01-10',
   },
+{
+  id: 7,
+  title: 'Spaans leren in Guatemala: betaalbaar en intensief voor reizigers',
+  category: 'Spaans leren',
+  slug: 'spaans-leren-in-guatemala',
+  coverImage: '/blog/spaans-leren-guatemala.jpg',
+  date: '2026-01-07',
+},
+{
+  id: 8,
+  title: 'Spaans leren in Bolivia: rustig tempo en maximale focus',
+  category: 'Spaans leren',
+  slug: 'spaans-leren-in-bolivia',
+  coverImage: '/blog/spaans-leren-bolivia.jpg',
+  date: '2026-01-13',
+},
+{
+  id: 9,
+  title: 'Spaans leren in Colombia: sociaal leren met een duidelijk accent',
+  category: 'Spaans leren',
+  slug: 'spaans-leren-in-colombia',
+  coverImage: '/blog/spaans-leren-colombia.jpg',
+  date: '2026-01-16',
+},{
+  id: 10,
+  title: 'Spaans leren in Nicaragua: ontspannen leren tijdens je reis',
+  category: 'Spaans leren',
+  slug: 'spaans-leren-in-nicaragua',
+  coverImage: '/blog/spaans-leren-nicaragua.jpg',
+  date: '2026-01-18',
+},{
+  id: 11,
+  title: 'Spaans leren in Midden- en Zuid-Amerika: hoe het werkt, kosten en tips',
+  category: 'Spaans leren',
+  slug: 'spaans-leren-midden-en-zuid-amerika',
+  coverImage: '/blog/spaans-leren-latijns-amerika.jpg',
+  date: '2026-01-20',
+},
 ];
 
 export default function SpaansLerenPage() {

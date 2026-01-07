@@ -366,6 +366,195 @@ const allSpaansLerenPosts = [
       <p>Met deze basis stap je met meer vertrouwen het vliegtuig in — klaar om écht contact te maken tijdens je reis.</p>
     `,
   },
+
+{
+  id: 7,
+  title: 'Spaans leren in Guatemala: intensief, betaalbaar en persoonlijk',
+  excerpt: 'Guatemala is een van de populairste landen om Spaans te leren in Midden-Amerika. Ontdek hoe taalscholen werken, wat het kost en waarom het zo effectief is.',
+  date: '2026-01-12',
+  category: 'Spaans leren in het buitenland',
+  thumbnail: '/blog/spaans-leren-guatemala.jpg',
+  author: 'Jasmijn de Jong',
+  slug: 'spaans-leren-in-guatemala',
+  content: `
+    <p>Guatemala staat bekend als een van de beste landen ter wereld om Spaans te leren. Vooral reizigers kiezen massaal voor plekken als Antigua en het Atitlán-meer.</p>
+
+    <p>Dat is niet voor niets. De lessen zijn intensief, persoonlijk en verrassend betaalbaar.</p>
+
+    <h2>Waarom Spaans leren in Guatemala zo goed werkt</h2>
+    <p>De meeste taalscholen werken met één-op-één lessen. Dat betekent dat de docent zich volledig aanpast aan jouw niveau en leerdoelen.</p>
+
+    <p>Daarnaast spreken veel Guatemaltekenaren rustig en duidelijk Spaans, wat het leren makkelijker maakt voor beginners.</p>
+
+    <h2>Hoe ziet een lesweek eruit?</h2>
+    <ul>
+      <li>4 tot 5 uur privéles per dag</li>
+      <li>focus op spreken en luisteren</li>
+      <li>praktische situaties zoals boodschappen doen en eten bestellen</li>
+    </ul>
+
+    <p>Wil je je alvast voorbereiden? Begin dan met de belangrijkste <a href="/woorden" class="text-orange-600 hover:underline font-semibold">Spaanse woorden</a> voor op reis.</p>
+
+    <h2>Wat kost Spaans leren in Guatemala?</h2>
+    <p>Gemiddeld betaal je tussen de €150 en €250 per week voor lessen. Vaak kun je ook bij een gastgezin verblijven, inclusief maaltijden.</p>
+
+    <h2>Extra tip</h2>
+    <p>Oefen naast je lessen dagelijks korte gesprekken. Dat kan bijvoorbeeld via de <a href="/gesprekken" class="text-orange-600 hover:underline font-semibold">gesprekken</a> sectie, zodat je sneller durft te praten.</p>
+
+    <p>Guatemala is ideaal als je snel vooruitgang wilt boeken en echt Spaans wilt gebruiken in het dagelijks leven.</p>
+  `,
+},
+
+{
+  id: 8,
+  title: 'Spaans leren in Bolivia: rustig tempo en lage kosten',
+  excerpt: 'Bolivia is perfect voor reizigers die Spaans willen leren in een rustig tempo. Lees hoe het werkt, wat het kost en waar je op moet letten.',
+  date: '2026-01-14',
+  category: 'Spaans leren in het buitenland',
+  thumbnail: '/blog/spaans-leren-bolivia.jpg',
+  author: 'Jasmijn de Jong',
+  slug: 'spaans-leren-in-bolivia',
+  content: `
+    <p>Bolivia is minder toeristisch dan veel andere landen in Zuid-Amerika, maar juist daardoor ideaal om Spaans te leren.</p>
+
+    <p>Het leven gaat er rustiger en locals nemen vaak de tijd om met je te praten.</p>
+
+    <h2>Waarom Bolivia geschikt is voor beginners</h2>
+    <p>Het Spaans wordt er relatief langzaam gesproken. Dat maakt luisteren en begrijpen een stuk makkelijker.</p>
+
+    <h2>Taalscholen en lesvorm</h2>
+    <p>Net als in Guatemala werken veel scholen met privélessen of kleine groepen. De focus ligt sterk op spreken.</p>
+
+    <p>Vooraf oefenen helpt enorm. Breid je woordenschat uit via de <a href="/woorden" class="text-orange-600 hover:underline font-semibold">woordenlijst</a>.</p>
+
+    <h2>Kosten en levensonderhoud</h2>
+    <p>Bolivia is een van de goedkoopste landen in Zuid-Amerika. Lessen kosten vaak minder dan €200 per week.</p>
+
+    <h2>Praktisch leren buiten de klas</h2>
+    <p>Oefen elke dag korte gesprekjes op straat, in de markt of in een café. Combineer dit met oefenen via <a href="/games" class="text-orange-600 hover:underline font-semibold">spelletjes</a> voor extra herhaling.</p>
+
+    <p>Bolivia is perfect als je zonder druk Spaans wilt leren en écht onderdeel wilt worden van het dagelijks leven.</p>
+  `,
+},
+{
+  id: 9,
+  title: 'Spaans leren in Colombia: duidelijk accent en veel oefenkansen',
+  excerpt: 'Colombia staat bekend om zijn duidelijke Spaans en vriendelijke bevolking. Ontdek waarom dit land zo populair is om Spaans te leren.',
+  date: '2026-01-16',
+  category: 'Spaans leren in het buitenland',
+  thumbnail: '/blog/spaans-leren-colombia.jpg',
+  author: 'Jasmijn de Jong',
+  slug: 'spaans-leren-in-colombia',
+  content: `
+    <p>Colombia is een van de populairste landen om Spaans te leren. Vooral steden als Medellín en Bogotá trekken veel taalstudenten.</p>
+
+    <h2>Het Colombiaanse Spaans</h2>
+    <p>Het Spaans in Colombia wordt vaak gezien als een van de duidelijkste varianten van de taal.</p>
+
+    <p>Dat maakt het ideaal voor mensen die hun luistervaardigheid willen verbeteren.</p>
+
+    <h2>Leren in en buiten de school</h2>
+    <p>Naast lessen krijg je volop kansen om Spaans te spreken. Colombianen zijn open, vriendelijk en praten graag.</p>
+
+    <p>Oefen veelgebruikte zinnen vooraf via de <a href="/gesprekken" class="text-orange-600 hover:underline font-semibold">gesprekken</a> pagina.</p>
+
+    <h2>Wat kost Spaans leren in Colombia?</h2>
+    <p>De prijzen liggen iets hoger dan in Bolivia, maar zijn nog steeds betaalbaar. Reken op €200–€300 per week.</p>
+
+    <h2>Extra leerstrategie</h2>
+    <p>Combineer lessen met korte dagelijkse oefeningen. Met <a href="/games" class="text-orange-600 hover:underline font-semibold">spelletjes</a> onthoud je woorden sneller en durf je ze ook te gebruiken.</p>
+
+    <p>Colombia is ideaal als je veel wilt praten en snel zelfvertrouwen wilt opbouwen.</p>
+  `,
+},
+{
+  id: 10,
+  title: 'Spaans leren in Nicaragua: ontspannen leren op reis',
+  excerpt: 'Nicaragua combineert ontspannen reizen met effectief Spaans leren. Ontdek hoe taalscholen werken en hoe je het meeste uit je lessen haalt.',
+  date: '2026-01-18',
+  category: 'Spaans leren in het buitenland',
+  thumbnail: '/blog/spaans-leren-nicaragua.jpg',
+  author: 'Jasmijn de Jong',
+  slug: 'spaans-leren-in-nicaragua',
+  content: `
+    <p>Nicaragua is een ideale bestemming als je Spaans wilt leren in een ontspannen sfeer.</p>
+
+    <p>De combinatie van natuur, kleine steden en vriendelijke locals maakt oefenen laagdrempelig.</p>
+
+    <h2>Waarom Spaans leren hier prettig is</h2>
+    <p>Het tempo ligt laag en mensen zijn geduldig. Dat geeft je de ruimte om te praten, ook als je fouten maakt.</p>
+
+    <h2>Lesstructuur</h2>
+    <p>Veel scholen bieden privélessen of kleine groepen. De nadruk ligt op praktische communicatie.</p>
+
+    <p>Bereid je voor door alvast te oefenen met basiswoorden via de <a href="/woorden" class="text-orange-600 hover:underline font-semibold">woordenlijst</a>.</p>
+
+    <h2>Kosten en verblijf</h2>
+    <p>Nicaragua is betaalbaar. Lesprijzen liggen rond de €150–€250 per week, vaak met homestay-opties.</p>
+
+    <h2>Blijven oefenen</h2>
+    <p>Gebruik naast je lessen korte oefeningen en spellen. Via de <a href="/games" class="text-orange-600 hover:underline font-semibold">games</a> sectie blijf je actief oefenen zonder dat het als studeren voelt.</p>
+
+    <p>Nicaragua is perfect als je leren en reizen wilt combineren zonder stress.</p>
+  `,
+},{
+  id: 11,
+  title: 'Spaans leren in Midden- en Zuid-Amerika: hoe het werkt, kosten en tips',
+  excerpt: 'Spaans leren tijdens je reis door Midden- en Zuid-Amerika is effectief en leuk. Ontdek hoe taalscholen werken, wat het kost en hoe je je goed voorbereidt.',
+  date: '2026-01-20',
+  category: 'Spaans leren in het buitenland',
+  thumbnail: '/blog/spaans-leren-latijns-amerika.jpg',
+  author: 'Jasmijn de Jong',
+  slug: 'spaans-leren-midden-en-zuid-amerika',
+  content: `
+    <p>Spaans leren in Midden- en Zuid-Amerika is voor veel reizigers een logische stap. Je hoort de taal overal om je heen en kunt wat je leert direct toepassen in het dagelijks leven.</p>
+
+    <p>Of je nu een paar weken op reis bent of langere tijd blijft: leren in het buitenland zorgt vaak voor snellere vooruitgang dan studeren vanuit huis.</p>
+
+    <h2>Hoe werkt Spaans leren in Midden- en Zuid-Amerika?</h2>
+    <p>In vrijwel elk land vind je taalscholen die speciaal gericht zijn op reizigers. Deze scholen bieden flexibele programma’s aan, waardoor je leren eenvoudig combineert met reizen.</p>
+
+    <ul>
+      <li>privélessen of kleine groepen</li>
+      <li>focus op spreken en luisteren</li>
+      <li>praktische situaties zoals eten bestellen of de weg vragen</li>
+    </ul>
+
+    <p>De meeste lessen zijn direct in het Spaans. Daarom is het slim om vooraf alvast een basis te leggen met veelgebruikte <a href="/woorden" class="text-orange-600 hover:underline font-semibold">Spaanse woorden</a>.</p>
+
+    <h2>Waarom leren in het buitenland zo effectief is</h2>
+    <p>Je leert Spaans niet alleen in de klas, maar de hele dag door. Op straat, in restaurants en tijdens gesprekken met locals.</p>
+
+    <p>Dat zorgt ervoor dat je sneller went aan de taal en minder bang wordt om te spreken.</p>
+
+    <h2>Wat kost Spaans leren in Midden- en Zuid-Amerika?</h2>
+    <p>De kosten verschillen per land, maar liggen vaak lager dan in Europa. Gemiddeld kun je rekenen op:</p>
+
+    <ul>
+      <li>€100 – €200 per week voor groepslessen</li>
+      <li>€10 – €20 per uur voor privélessen</li>
+      <li>€150 – €300 per week voor een homestay inclusief maaltijden</li>
+    </ul>
+
+    <h2>Moet je al Spaans kunnen voordat je vertrekt?</h2>
+    <p>Dat is niet verplicht, maar wel aan te raden. Als je vooraf al eenvoudige zinnen en vragen oefent, haal je meer uit je lessen.</p>
+
+    <p>Je kunt dit doen door alvast te oefenen met <a href="/gesprekken" class="text-orange-600 hover:underline font-semibold">praktische gesprekken</a> die je op reis tegenkomt.</p>
+
+    <h2>Spelenderwijs blijven oefenen</h2>
+    <p>Naast lessen helpt het om dagelijks kort te oefenen. Spelenderwijs leren verlaagt de drempel en zorgt ervoor dat woorden beter blijven hangen.</p>
+
+    <p>Via de <a href="/games" class="text-orange-600 hover:underline font-semibold">spelletjes</a> kun je op een ontspannen manier blijven herhalen.</p>
+
+    <h2>Welke landen zijn populair om Spaans te leren?</h2>
+    <p>Populaire bestemmingen zijn onder andere Guatemala, Bolivia, Colombia en Nicaragua. Elk land heeft zijn eigen voordelen, afhankelijk van je budget, leerstijl en reisplannen.</p>
+
+    <p>Welke bestemming je ook kiest: oefenen, fouten maken en blijven spreken is de sleutel tot succes.</p>
+
+    <p>Met een goede voorbereiding stap je niet alleen met een koffer, maar ook met meer zelfvertrouwen het vliegtuig in.</p>
+  `,
+},
+
 ];
 
 // Generate static params only for published posts
