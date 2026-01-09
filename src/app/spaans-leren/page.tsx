@@ -101,7 +101,7 @@ const allSpaansLerenPosts = [
   title: 'Spaans leren in Midden- en Zuid-Amerika: hoe het werkt, kosten en tips',
   category: 'Spaans leren',
   slug: 'spaans-leren-midden-en-zuid-amerika',
-  coverImage: '/blog/spaans-leren-latijns-amerika.webp',
+  coverImage: '/blog/spaans-leren-midden-en-zuid-amerika.webp',
   date: '2026-01-20',
 },
 ];

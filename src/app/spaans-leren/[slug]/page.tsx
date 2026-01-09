@@ -503,7 +503,7 @@ const allSpaansLerenPosts = [
   excerpt: 'Spaans leren tijdens je reis door Midden- en Zuid-Amerika is effectief en leuk. Ontdek hoe taalscholen werken, wat het kost en hoe je je goed voorbereidt.',
   date: '2026-01-20',
   category: 'Spaans leren in het buitenland',
-  thumbnail: '/blog/spaans-leren-latijns-amerika.webp',
+  thumbnail: '/blog/spaans-leren-midden-en-zuid-amerika.webp',
   author: 'Jasmijn de Jong',
   slug: 'spaans-leren-midden-en-zuid-amerika',
   content: `

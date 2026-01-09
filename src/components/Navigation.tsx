@@ -33,7 +33,7 @@ export default function Navigation() {
             <Link href="/" className="flex items-center">
               <div className="relative h-10 w-auto">
                 <Image
-                  src="/logo.png"
+                  src="/logo.webp"
                   alt="Spaans op reis logo"
                   width={200}
                   height={60}
