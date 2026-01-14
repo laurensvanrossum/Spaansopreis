@@ -88,21 +88,21 @@ const allSpaansLerenPosts = [
   category: 'Spaans leren',
   slug: 'spaans-leren-in-colombia',
   coverImage: '/blog/spaans-leren-colombia.webp',
-  date: '2026-01-16',
+  date: '2026-01-13',
 },{
   id: 10,
   title: 'Spaans leren in Nicaragua: ontspannen leren tijdens je reis',
   category: 'Spaans leren',
   slug: 'spaans-leren-in-nicaragua',
   coverImage: '/blog/spaans-leren-nicaragua.webp',
-  date: '2026-01-18',
+  date: '2026-01-14',
 },{
   id: 11,
   title: 'Spaans leren in Midden- en Zuid-Amerika: hoe het werkt, kosten en tips',
   category: 'Spaans leren',
   slug: 'spaans-leren-midden-en-zuid-amerika',
   coverImage: '/blog/spaans-leren-midden-en-zuid-amerika.webp',
-  date: '2026-01-20',
+  date: '2026-01-16',
 },
 ];
 
