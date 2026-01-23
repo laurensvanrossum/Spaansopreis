@@ -3,6 +3,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { filterPublishedPosts, isPostPublished } from '@/lib/dateUtils';
+import { getSiteUrl } from '@/lib/site';
 
 // Spaans leren posts data with full content (all posts including future ones)
 const allSpaansLerenPosts = [
@@ -578,17 +579,37 @@ export async function generateMetadata({
   if (!post || !isPostPublished(post.date)) {
     return {
       title: 'Artikel niet gevonden - Spaans op reis',
+      robots: {
+        index: false,
+        follow: false,
+      },
     };
   }
 
   return {
     title: `${post.title} - Spaans Leren | Spaans op reis`,
     description: post.excerpt,
+    alternates: {
+      canonical: `/spaans-leren/${post.slug}`,
+    },
     openGraph: {
       title: post.title,
       description: post.excerpt,
       type: 'article',
       publishedTime: post.date,
+      url: `/spaans-leren/${post.slug}`,
+      images: [
+        {
+          url: post.thumbnail,
+          alt: post.title,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary',
+      title: post.title,
+      description: post.excerpt,
+      images: [post.thumbnail],
     },
     robots: {
       index: true,
@@ -615,20 +636,34 @@ export default async function SpaansLerenPostPage({ params }: { params: Promise<
   // Get only published posts for related articles
   const publishedPosts = filterPublishedPosts(allSpaansLerenPosts);
 
+  const siteUrl = getSiteUrl();
+  const postUrl = `${siteUrl}/spaans-leren/${post.slug}`;
+  const imageUrl = `${siteUrl}${post.thumbnail}`;
+
   // JSON-LD Schema for the article
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'BlogPosting',
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': postUrl,
+    },
+    url: postUrl,
     headline: post.title,
     description: post.excerpt,
+    image: [imageUrl],
     datePublished: post.date,
     author: {
-      '@type': 'Organization',
+      '@type': 'Person',
       name: post.author,
     },
     publisher: {
       '@type': 'Organization',
       name: 'Spaans op reis',
+      logo: {
+        '@type': 'ImageObject',
+        url: `${siteUrl}/logo.webp`,
+      },
     },
     articleSection: post.category,
   };

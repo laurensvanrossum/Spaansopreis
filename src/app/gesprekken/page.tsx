@@ -1,5 +1,15 @@
+import type { Metadata } from 'next';
 import ConversationCard from '@/components/ConversationCard';
 import conversationsData from '../../../data/conversations.json';
+
+export const metadata: Metadata = {
+  title: 'Spaanse gesprekken voor op reis',
+  description:
+    'Oefen praktische Spaanse gesprekken voor hotels, restaurants, vervoer en meer. Inclusief audio uitspraak en beginnersvriendelijk (A1/A2).',
+  alternates: {
+    canonical: '/gesprekken',
+  },
+};
 
 export default function Gesprekken() {
   const conversations = conversationsData.conversations;

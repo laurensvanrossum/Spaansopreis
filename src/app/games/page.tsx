@@ -1,4 +1,14 @@
 import Link from 'next/link';
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'Spaanse games om te oefenen',
+  description:
+    'Oefen Spaanse woordenschat met flashcards, quizzen en minigames. Spelenderwijs Spaans leren voor op reis.',
+  alternates: {
+    canonical: '/games',
+  },
+};
 
 export default function Games() {
   return (

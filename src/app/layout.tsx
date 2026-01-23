@@ -4,6 +4,7 @@ import "./globals.css";
 import Navigation from "@/components/Navigation";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import Footer from "@/components/Footer";
+import { getSiteUrlAsUrl } from "@/lib/site";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -18,8 +19,49 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "Spaans op reis - Leer Spaans",
-  description: "Leer Spaans op een leuke en interactieve manier met woorden, gesprekken en games",
+  metadataBase: getSiteUrlAsUrl(),
+  title: {
+    default: "Spaans op reis",
+    template: "%s | Spaans op reis",
+  },
+  description:
+    "Leer Spaans op een leuke en interactieve manier met woorden, gesprekken en games. Ideaal voor reizigers die snel praktisch Spaans willen oefenen.",
+  alternates: {
+    canonical: "/",
+  },
+  openGraph: {
+    title: "Spaans op reis",
+    description:
+      "Oefen Spaans met woorden, gesprekken en games. Praktisch Spaans voor op reis.",
+    type: "website",
+    url: "/",
+    locale: "nl_NL",
+    siteName: "Spaans op reis",
+    images: [
+      {
+        url: "/logo.webp",
+        alt: "Spaans op reis",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary",
+    title: "Spaans op reis",
+    description:
+      "Oefen Spaans met woorden, gesprekken en games. Praktisch Spaans voor op reis.",
+    images: ["/logo.webp"],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+      "max-video-preview": -1,
+    },
+  },
 };
 
 export default function RootLayout({

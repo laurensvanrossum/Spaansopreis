@@ -1,3 +1,4 @@
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import NavigationCard from '@/components/NavigationCard';
 import WordOfTheDayCard from '@/components/WordOfTheDayCard';
@@ -24,6 +25,15 @@ import colorsData from '../../data/colors.json';
 import familyData from '../../data/family.json';
 import bodyData from '../../data/body.json';
 import groenteEnFruitData from '../../data/groente-en-fruit.json';
+
+export const metadata: Metadata = {
+  title: 'Leer Spaans voor op reis',
+  description:
+    'Oefen praktisch Spaans met woordenlijsten, gesprekken en leuke games. Perfect voor reizigers die snel willen kunnen bestellen, vragen en antwoorden.',
+  alternates: {
+    canonical: '/',
+  },
+};
 
 const navigationCards = [
   {

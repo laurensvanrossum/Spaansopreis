@@ -8,11 +8,26 @@ export const metadata: Metadata = {
   title: 'Spaans Leren - Tips, Tricks en Lesmethoden | Spaans op reis',
   description: 'Ontdek de beste manieren om Spaans te leren voor je reis. Van praktische tips tot effectieve lesmethoden - alles wat je nodig hebt om Spaans onder de knie te krijgen.',
   keywords: 'Spaans leren, Spaanse taal, taallessen, reistips, taalonderwijs, Spaans voor beginners',
+  alternates: {
+    canonical: '/spaans-leren',
+  },
   openGraph: {
     title: 'Spaans Leren - Spaans op reis',
     description: 'De beste tips en methoden om Spaans te leren',
     type: 'website',
-    url: 'https://spaansopreis.nl/spaans-leren',
+    url: '/spaans-leren',
+    images: [
+      {
+        url: '/blog/spaans-leren.webp',
+        alt: 'Spaans leren - Spaans op reis',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary',
+    title: 'Spaans Leren - Spaans op reis',
+    description: 'De beste tips en methoden om Spaans te leren',
+    images: ['/blog/spaans-leren.webp'],
   },
 };
 

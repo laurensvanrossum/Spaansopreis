@@ -1,9 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  // Set the workspace root to silence the multiple lockfiles warning
+  // Keep this portable across machines/CI (avoid hard-coded absolute paths)
   turbopack: {
-    root: '/Users/laurensvanrossum/Desktop/Cursor project 3',
+    root: process.cwd(),
   },
 };
 
